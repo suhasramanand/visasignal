@@ -4,7 +4,7 @@ on:
   schedule:
     # Offset minute (not :00) since GitHub's scheduler queues everything
     # scheduled for the top of the hour and can delay it under load.
-    - cron: "17 */6 * * *"
+    - cron: "17 */4 * * *"
   workflow_dispatch: {}
 
 permissions:
