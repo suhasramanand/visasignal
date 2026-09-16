@@ -10,6 +10,7 @@ Immigration/visa policy news for international students, aggregated from officia
 - Dedups, tags by visa category, flags actionable items — all with plain keyword rules, no API keys or paid services required.
 - Renders a filterable news feed, a condensed Visa Bulletin movement tracker, and the current **DOS Visa Bulletin** (when reachable — see note below) as a static site.
 - Includes a "check your case status" widget that deep-links to USCIS's own case status page — receipt numbers never touch VisaSignal's pipeline, repo, or any server.
+- Tracks USCIS processing times (OPT EAD, H-1B change-of-status/extension, I-140 EB-2/EB-3, I-485) via [jzebedee/uscis](https://github.com/jzebedee/uscis)'s daily-scraped data, since `egov.uscis.gov` is behind the same Cloudflare wall as `travel.state.gov`.
 - Runs on a GitHub Actions cron schedule and commits the refreshed data back to the repo; the frontend is just static files reading that JSON.
 
 ## Run it locally

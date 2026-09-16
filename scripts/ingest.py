@@ -13,6 +13,7 @@ import yaml
 
 from dedup import dedup
 from fetch_federal_register import fetch_federal_register
+from fetch_processing_times import fetch_processing_times
 from fetch_rss import fetch_rss
 from fetch_visa_bulletin import fetch_visa_bulletin
 from tag import tag
@@ -34,6 +35,7 @@ NOISE_TITLE_PATTERNS = [
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = REPO_ROOT / "data"
 HISTORY_DIR = DATA_DIR / "visa_bulletin_history"
+PROCESSING_TIMES_HISTORY_DIR = DATA_DIR / "processing_times_history"
 SOURCES_FILE = REPO_ROOT / "sources.yaml"
 
 
@@ -146,12 +148,59 @@ def write_visa_bulletin(sources: dict) -> None:
     print(f"  visa_bulletin: wrote {bulletin['month']}", file=sys.stderr)
 
 
+def compute_processing_movement(previous: dict | None, new: dict) -> dict:
+    """Per-highlight month delta vs. the previous snapshot: negative = faster
+    (good news), positive = slower, None = not comparable (no history yet,
+    or USCIS changed/removed this form+subtype combination)."""
+    if previous is None:
+        return {}
+    prev_by_key = {h["key"]: h for h in previous.get("highlights", [])}
+    movement = {}
+    for h in new.get("highlights", []):
+        prev = prev_by_key.get(h["key"])
+        if prev is None:
+            movement[h["key"]] = None
+            continue
+        movement[h["key"]] = {
+            "delta_lower_months": round(h["range_lower_months"] - prev["range_lower_months"], 2),
+            "delta_upper_months": round(h["range_upper_months"] - prev["range_upper_months"], 2),
+        }
+    return movement
+
+
+def write_processing_times() -> None:
+    PROCESSING_TIMES_HISTORY_DIR.mkdir(parents=True, exist_ok=True)
+    result = fetch_processing_times()
+
+    if result is None:
+        print("  processing_times: fetch failed (jzebedee/uscis unreachable) -- "
+              "keeping previously committed data/processing_times.json", file=sys.stderr)
+        return
+
+    current_path = DATA_DIR / "processing_times.json"
+    previous = None
+    if current_path.exists():
+        with open(current_path) as f:
+            previous = json.load(f)
+        if previous.get("release_tag") != result["release_tag"]:
+            archive_name = f"{previous.get('release_tag', 'unknown')}.json"
+            shutil.copy(current_path, PROCESSING_TIMES_HISTORY_DIR / archive_name)
+
+    result["movement"] = compute_processing_movement(previous, result)
+
+    with open(current_path, "w") as f:
+        json.dump(result, f, indent=2)
+    print(f"  processing_times: wrote release {result['release_tag']}"
+          f"{' (stale)' if result['stale'] else ''}", file=sys.stderr)
+
+
 def main() -> None:
     sources = load_sources()
     print("Fetching sources...", file=sys.stderr)
     items = collect_items(sources)
     write_news(items)
     write_visa_bulletin(sources)
+    write_processing_times()
 
 
 if __name__ == "__main__":

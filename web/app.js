@@ -64,6 +64,46 @@ let searchTerm = "";
 let sortOrder = "newest";
 let visibleCount = PAGE_SIZE;
 
+const VALID_TABS = ["feed", "analysis", "bulletin", "processing"];
+
+// Filter state lives in the URL (via history.replaceState, so it never adds
+// back-button entries) so reloading or sharing a link preserves what you were
+// looking at, instead of resetting to defaults every time.
+function syncStateToURL() {
+  const params = new URLSearchParams();
+  if (currentTab !== "feed") params.set("tab", currentTab);
+  if (activeCategories.size) params.set("cat", [...activeCategories].join(","));
+  if (activeTrust.size) params.set("trust", [...activeTrust].join(","));
+  if (activeSources.size) params.set("src", [...activeSources].join(","));
+  if (dateRange !== "all") params.set("date", dateRange);
+  if (sortOrder !== "newest") params.set("sort", sortOrder);
+  if (actionableOnly) params.set("actionable", "1");
+  if (searchTerm) params.set("q", searchTerm);
+  const qs = params.toString();
+  history.replaceState(null, "", window.location.pathname + (qs ? `?${qs}` : ""));
+}
+
+function loadStateFromURL() {
+  const params = new URLSearchParams(window.location.search);
+  const tab = params.get("tab");
+  if (tab && VALID_TABS.includes(tab)) currentTab = tab;
+  if (params.get("cat")) activeCategories = new Set(params.get("cat").split(","));
+  if (params.get("trust")) activeTrust = new Set(params.get("trust").split(","));
+  if (params.get("src")) activeSources = new Set(params.get("src").split(","));
+  if (params.get("date")) dateRange = params.get("date");
+  if (params.get("sort")) sortOrder = params.get("sort");
+  actionableOnly = params.get("actionable") === "1";
+  if (params.get("q")) searchTerm = params.get("q");
+}
+
+function applyTab(tab) {
+  document.querySelectorAll(".tab").forEach((t) => t.classList.toggle("active", t.dataset.tab === tab));
+  const isFeedLike = tab === "feed" || tab === "analysis";
+  document.getElementById("feed-view").style.display = isFeedLike ? "block" : "none";
+  document.getElementById("bulletin-view").style.display = tab === "bulletin" ? "block" : "none";
+  document.getElementById("processing-view").style.display = tab === "processing" ? "block" : "none";
+}
+
 function timeAgo(iso) {
   const diffMs = Date.now() - new Date(iso).getTime();
   const min = Math.floor(diffMs / 60000);
@@ -280,6 +320,7 @@ function sortItems(items) {
 }
 
 function renderFeed() {
+  syncStateToURL();
   const items = sortItems(getFilteredItems());
   const feed = document.getElementById("feed");
   const loadMoreRow = document.getElementById("load-more-row");
@@ -509,23 +550,80 @@ function renderBulletinTab() {
   container.innerHTML = html;
 }
 
+async function loadProcessingTimes() {
+  try {
+    const res = await fetch(`../data/processing_times.json?t=${Date.now()}`, { cache: "no-store" });
+    const data = await res.json();
+    renderProcessingTimes(data);
+  } catch (err) {
+    document.getElementById("processing-times").innerHTML =
+      '<div class="empty-state">Could not load data/processing_times.json.</div>';
+  }
+}
+
+function formatProcessingDelta(movementEntry) {
+  if (!movementEntry) return "";
+  const avg = (movementEntry.delta_lower_months + movementEntry.delta_upper_months) / 2;
+  const rounded = Math.round(avg * 10) / 10;
+  if (rounded === 0) return '<span class="tracker-delta flat">no change</span>';
+  // Slower (positive delta) is bad news here -- inverted from the bulletin's
+  // "later date = good" semantics, so a longer wait uses the "down" color.
+  const cls = rounded < 0 ? "up" : "down";
+  const word = rounded < 0 ? "faster" : "slower";
+  return `<span class="tracker-delta ${cls}">${Math.abs(rounded)}mo ${word}</span>`;
+}
+
+function renderProcessingTimes(data) {
+  const container = document.getElementById("processing-times");
+
+  if (!data || !data.highlights || data.highlights.length === 0) {
+    container.innerHTML = '<div class="empty-state">Processing times data not yet available.</div>';
+    return;
+  }
+
+  const staleNote = data.stale
+    ? `<span style="color:var(--status-actionable-fg)"> — this data is over ${Math.round(data.release_age_hours / 24)} days old, USCIS's own upstream source may not have updated recently</span>`
+    : "";
+
+  const cells = data.highlights
+    .map((h) => {
+      const delta = data.movement ? data.movement[h.key] : null;
+      return `
+        <div class="tracker-cell">
+          <div class="tracker-label">${h.label}</div>
+          <div><span class="tracker-date">${h.display}</span></div>
+          <div>${formatProcessingDelta(delta)}</div>
+        </div>`;
+    })
+    .join("");
+
+  container.innerHTML = `
+    <p style="color:var(--muted)">Estimated USCIS processing times &middot; via <a href="https://github.com/jzebedee/uscis" style="color:inherit" target="_blank" rel="noopener">github.com/jzebedee/uscis</a>, not an official USCIS API${staleNote}</p>
+    <div class="tracker-grid">${cells}</div>`;
+}
+
 document.querySelectorAll(".tab").forEach((tab) => {
   tab.addEventListener("click", () => {
-    document.querySelectorAll(".tab").forEach((t) => t.classList.remove("active"));
-    tab.classList.add("active");
     currentTab = tab.dataset.tab;
-    const isFeedLike = currentTab === "feed" || currentTab === "analysis";
-
-    document.getElementById("feed-view").style.display = isFeedLike ? "block" : "none";
-    document.getElementById("bulletin-view").style.display = isFeedLike ? "none" : "block";
-
-    if (isFeedLike) {
+    applyTab(currentTab);
+    if (currentTab === "feed" || currentTab === "analysis") {
       resetFilters();
       document.getElementById("actionable-toggle").classList.remove("active");
       renderAll();
     }
+    syncStateToURL();
   });
 });
 
+// Restore tab/filter state from the URL (if any) before the first render,
+// so a shared link or a reload lands back where you left off.
+loadStateFromURL();
+document.getElementById("search").value = searchTerm;
+document.getElementById("date-range").value = dateRange;
+document.getElementById("sort-order").value = sortOrder;
+if (actionableOnly) document.getElementById("actionable-toggle").classList.add("active");
+applyTab(currentTab);
+
 loadFeed();
 loadBulletin();
+loadProcessingTimes();
