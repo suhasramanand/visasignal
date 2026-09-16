@@ -1,0 +1,47 @@
+# Add a new source by adding an entry below — no code changes needed for
+# Federal Register queries or RSS feeds. See CONTRIBUTING.md.
+
+federal_register:
+  - name: uscis_rules
+    agencies: [u-s-citizenship-and-immigration-services]
+    types: [RULE, PRORULE, NOTICE]
+  # DHS/ICE/State publish far more than immigration content (Coast Guard
+  # safety zones, TSA notices, etc.) -- a term filter keeps only the
+  # immigration-relevant subset instead of drowning the feed in noise.
+  - name: dhs_rules
+    agencies: [homeland-security-department]
+    types: [RULE, PRORULE, NOTICE]
+    term: "immigration OR visa OR nonimmigrant OR asylum OR removal OR naturalization OR alien"
+  - name: ice_rules
+    agencies: [u-s-immigration-and-customs-enforcement]
+    types: [RULE, PRORULE, NOTICE]
+    term: "immigration OR visa OR nonimmigrant OR asylum OR removal OR naturalization OR alien OR sevis OR sevp"
+  - name: state_dept_rules
+    agencies: [state-department]
+    types: [RULE, PRORULE, NOTICE]
+    term: "immigration OR visa OR nonimmigrant OR consular"
+
+rss:
+  - name: uscis_news
+    url: https://www.uscis.gov/news/rss-feed/23269
+    trust: official
+  - name: uscis_alerts
+    url: https://www.uscis.gov/news/rss-feed/22984
+    trust: official
+  # Law firm commentary/analysis -- useful context, not primary-source policy.
+  - name: murthy_law
+    url: https://www.murthy.com/feed/
+    trust: analysis
+  - name: citizenpath
+    url: https://citizenpath.com/news/feed/
+    trust: analysis
+  # Evaluated and skipped as unreliable (checked 2026-09-16): Cyrus Mehta's
+  # Insightful Immigration Blog (blog.cyrusmehta.com/feed -> HTTP 406 on every
+  # request), immigration.com/blogs/feed (200 OK but empty feed body),
+  # Jackson Lewis globalimmigrationblog.com/feed and Greenberg Traurig
+  # gtlaw-insidebusinessimmigration.com/feed (both Cloudflare/WAF 403). AILA
+  # and Fragomen have no RSS at all. Re-check periodically -- WAFs and feed
+  # availability change.
+
+visa_bulletin:
+  url_template: "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/{year}/visa-bulletin-for-{month}-{year}.html"

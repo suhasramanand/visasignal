@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>VisaSignal</title>
+<link rel="stylesheet" href="styles.css" />
+<script>
+  // Set theme before first paint to avoid a flash of the wrong theme.
+  (function () {
+    var stored = localStorage.getItem("theme");
+    var theme = stored || (matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
+    document.documentElement.dataset.theme = theme;
+  })();
+</script>
+</head>
+<body>
+<header>
+  <div class="header-top">
+    <div class="brand">
+      <span class="brand-icon"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg></span>
+      <h1>VisaSignal</h1>
+      <span class="tag">open source</span>
+    </div>
+    <div class="header-meta">
+      <details class="menu case-status-menu">
+        <summary>Check case status</summary>
+        <div class="menu-panel">
+          <p>Opens USCIS's own page. Your receipt number is never sent to or stored by VisaSignal.</p>
+          <form class="case-status-form" id="case-status-form">
+            <input type="text" id="receipt-number" placeholder="IOE0912345678" pattern="[A-Za-z]{3}[0-9]{10}" title="3 letters followed by 10 digits" required />
+            <button type="submit">Check <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></button>
+          </form>
+        </div>
+      </details>
+      <button id="theme-toggle" title="Toggle light/dark theme"></button>
+      <button id="refresh-btn" title="Refresh data"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"></path><polyline points="21 3 21 9 15 9"></polyline></svg></button>
+      <span id="header-meta-text">loading…</span>
+      <details class="menu">
+        <summary><svg class="icon" viewBox="0 0 24 24" fill="currentColor" stroke="none"><circle cx="5" cy="12" r="1.6"></circle><circle cx="12" cy="12" r="1.6"></circle><circle cx="19" cy="12" r="1.6"></circle></svg></summary>
+        <div class="menu-panel">
+          <p>Informational only, not legal advice.</p>
+          <p>MIT licensed, contributions welcome.</p>
+        </div>
+      </details>
+    </div>
+  </div>
+
+  <div class="tabs">
+    <button class="tab active" data-tab="feed">News feed</button>
+    <button class="tab" data-tab="analysis">Analysis</button>
+    <button class="tab" data-tab="bulletin">Visa Bulletin</button>
+  </div>
+</header>
+
+<main>
+  <section id="feed-view">
+    <div class="stat-line" id="stats"></div>
+    <div id="movement-banner"></div>
+
+    <div class="pill-row" id="category-pills"></div>
+
+    <div class="toolbar">
+      <input type="search" id="search" placeholder="Search titles…" />
+      <details class="menu filters-menu">
+        <summary>Filters</summary>
+        <div class="menu-panel">
+          <div class="filter-group">
+            <div class="filter-label">Source type</div>
+            <button class="pill-toggle" id="trust-official" data-trust="official"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 21 8 3 8"></polygon><line x1="6" y1="11" x2="6" y2="18"></line><line x1="10" y1="11" x2="10" y2="18"></line><line x1="14" y1="11" x2="14" y2="18"></line><line x1="18" y1="11" x2="18" y2="18"></line><line x1="3" y1="22" x2="21" y2="22"></line></svg> Official</button>
+            <button class="pill-toggle" id="trust-analysis" data-trust="analysis"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="2" x2="12" y2="22"></line><line x1="5" y1="6" x2="19" y2="6"></line><circle cx="5" cy="11" r="3"></circle><circle cx="19" cy="11" r="3"></circle><line x1="8" y1="22" x2="16" y2="22"></line></svg> Analysis</button>
+          </div>
+          <div class="filter-group">
+            <button class="pill-toggle" id="actionable-toggle">Actionable only</button>
+          </div>
+          <div class="filter-group">
+            <div class="filter-label">Date range</div>
+            <select id="date-range">
+              <option value="all">All time</option>
+              <option value="today">Today</option>
+              <option value="week">Last 7 days</option>
+              <option value="month">Last 30 days</option>
+            </select>
+          </div>
+          <div class="filter-group">
+            <div class="filter-label">Sort</div>
+            <select id="sort-order">
+              <option value="newest">Newest first</option>
+              <option value="oldest">Oldest first</option>
+              <option value="actionable">Actionable first</option>
+            </select>
+          </div>
+          <div class="filter-group">
+            <div class="filter-label">Sources</div>
+            <div id="source-filter" class="source-list"></div>
+          </div>
+          <button id="clear-filters" class="clear-btn" style="display:none">Clear all filters</button>
+        </div>
+      </details>
+    </div>
+
+    <div id="feed"><div class="loading">Loading…</div></div>
+    <div class="load-more-row" id="load-more-row" style="display:none">
+      <button id="load-more">Load more</button>
+    </div>
+  </section>
+
+  <section id="bulletin-view" style="display:none">
+    <div id="bulletin-tracker"></div>
+    <div id="bulletin"><div class="loading">Loading…</div></div>
+  </section>
+</main>
+
+<footer>
+  Informational only, not legal advice. News feed sources: Federal Register, USCIS, U.S. Department of State.
+  Analysis sources: independent immigration law firms/blogs, not government sources.
+  <a href="https://github.com/" style="color:inherit">Contribute on GitHub</a>.
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

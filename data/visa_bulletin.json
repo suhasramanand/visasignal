@@ -1,0 +1,164 @@
+{
+  "final_action": {
+    "employment_based": {
+      "EB-1": {
+        "ROW": "C",
+        "CHINA": "2023-07-01",
+        "INDIA": "2022-10-15",
+        "MEXICO": "C",
+        "PHILIPPINES": "C"
+      },
+      "EB-2": {
+        "ROW": "C",
+        "CHINA": "2021-09-01",
+        "INDIA": "U",
+        "MEXICO": "C",
+        "PHILIPPINES": "C"
+      },
+      "EB-3": {
+        "ROW": "2024-09-01",
+        "CHINA": "2022-01-01",
+        "INDIA": "2014-01-01",
+        "MEXICO": "2024-09-01",
+        "PHILIPPINES": "2023-08-01"
+      },
+      "EB-4": {
+        "ROW": "2022-10-15",
+        "CHINA": "2022-10-15",
+        "INDIA": "2022-10-15",
+        "MEXICO": "2022-10-15",
+        "PHILIPPINES": "2022-10-15"
+      },
+      "EB-5": {
+        "ROW": "C",
+        "CHINA": "2016-12-01",
+        "INDIA": "U",
+        "MEXICO": "C",
+        "PHILIPPINES": "C"
+      }
+    }
+  },
+  "dates_for_filing": {
+    "employment_based": {
+      "EB-1": {
+        "ROW": "C",
+        "CHINA": "2023-12-01",
+        "INDIA": "2023-12-01",
+        "MEXICO": "C",
+        "PHILIPPINES": "C"
+      },
+      "EB-2": {
+        "ROW": "C",
+        "CHINA": "2022-01-01",
+        "INDIA": "2015-01-15",
+        "MEXICO": "C",
+        "PHILIPPINES": "C"
+      },
+      "EB-3": {
+        "ROW": "C",
+        "CHINA": "2022-01-08",
+        "INDIA": "2015-01-15",
+        "MEXICO": "C",
+        "PHILIPPINES": "2024-01-01"
+      },
+      "EB-4": {
+        "ROW": "2023-01-01",
+        "CHINA": "2023-01-01",
+        "INDIA": "2023-01-01",
+        "MEXICO": "2023-01-01",
+        "PHILIPPINES": "2023-01-01"
+      },
+      "EB-5": {
+        "ROW": "C",
+        "CHINA": "2017-03-01",
+        "INDIA": "2024-05-01",
+        "MEXICO": "C",
+        "PHILIPPINES": "C"
+      }
+    }
+  },
+  "source_url": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-august-2026.html",
+  "month": "August 2026",
+  "data_source": "pd-tracker (GitHub, family-sponsored not covered, may lag ~1 month)",
+  "fetched_at": "2026-09-16T17:01:17.418303+00:00",
+  "movement": {
+    "final_action": {
+      "employment_based": {
+        "EB-1": {
+          "ROW": null,
+          "CHINA": 0,
+          "INDIA": 0,
+          "MEXICO": null,
+          "PHILIPPINES": null
+        },
+        "EB-2": {
+          "ROW": null,
+          "CHINA": 0,
+          "INDIA": null,
+          "MEXICO": null,
+          "PHILIPPINES": null
+        },
+        "EB-3": {
+          "ROW": 0,
+          "CHINA": 0,
+          "INDIA": 0,
+          "MEXICO": 0,
+          "PHILIPPINES": 0
+        },
+        "EB-4": {
+          "ROW": 0,
+          "CHINA": 0,
+          "INDIA": 0,
+          "MEXICO": 0,
+          "PHILIPPINES": 0
+        },
+        "EB-5": {
+          "ROW": null,
+          "CHINA": 0,
+          "INDIA": null,
+          "MEXICO": null,
+          "PHILIPPINES": null
+        }
+      }
+    },
+    "dates_for_filing": {
+      "employment_based": {
+        "EB-1": {
+          "ROW": null,
+          "CHINA": 0,
+          "INDIA": 0,
+          "MEXICO": null,
+          "PHILIPPINES": null
+        },
+        "EB-2": {
+          "ROW": null,
+          "CHINA": 0,
+          "INDIA": 0,
+          "MEXICO": null,
+          "PHILIPPINES": null
+        },
+        "EB-3": {
+          "ROW": null,
+          "CHINA": 0,
+          "INDIA": 0,
+          "MEXICO": null,
+          "PHILIPPINES": 0
+        },
+        "EB-4": {
+          "ROW": 0,
+          "CHINA": 0,
+          "INDIA": 0,
+          "MEXICO": 0,
+          "PHILIPPINES": 0
+        },
+        "EB-5": {
+          "ROW": null,
+          "CHINA": 0,
+          "INDIA": 0,
+          "MEXICO": null,
+          "PHILIPPINES": null
+        }
+      }
+    }
+  }
+}
