@@ -27,6 +27,8 @@ const SOURCE_LABELS = {
   "rss:uscis_alerts": "USCIS alerts",
   "rss:murthy_law": "Murthy Law Firm",
   "rss:citizenpath": "CitizenPath",
+  "rss:american_immigration_council": "American Immigration Council",
+  "rss:wr_immigration": "WR Immigration",
 };
 
 const COUNTRY_LABELS = {

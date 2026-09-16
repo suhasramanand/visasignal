@@ -35,13 +35,23 @@ rss:
   - name: citizenpath
     url: https://citizenpath.com/news/feed/
     trust: analysis
+  - name: american_immigration_council
+    url: https://www.americanimmigrationcouncil.org/feed/
+    trust: analysis
+  - name: wr_immigration
+    url: https://wolfsdorf.com/feed/
+    trust: analysis
   # Evaluated and skipped as unreliable (checked 2026-09-16): Cyrus Mehta's
   # Insightful Immigration Blog (blog.cyrusmehta.com/feed -> HTTP 406 on every
   # request), immigration.com/blogs/feed (200 OK but empty feed body),
   # Jackson Lewis globalimmigrationblog.com/feed and Greenberg Traurig
   # gtlaw-insidebusinessimmigration.com/feed (both Cloudflare/WAF 403). AILA
-  # and Fragomen have no RSS at all. Re-check periodically -- WAFs and feed
-  # availability change.
+  # and Fragomen have no RSS at all. shusterman.com/feed works but hasn't
+  # posted since July 2025 -- stale, would just sit as dead weight.
+  # visaverge.com/feed works technically but mixes unrelated travel/aviation
+  # business news with immigration content -- reintroduces the noise problem
+  # NOISE_TITLE_PATTERNS was built to filter out. Re-check periodically --
+  # WAFs, feed availability, and posting cadence all change.
 
 visa_bulletin:
   url_template: "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/{year}/visa-bulletin-for-{month}-{year}.html"
