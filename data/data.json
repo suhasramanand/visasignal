@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T04:50:06.423012+00:00",
-  "count": 341,
-  "source_count": 6,
+  "generated_at": "2026-09-17T13:25:17.312210+00:00",
+  "count": 418,
+  "source_count": 10,
   "items": [
     {
       "title": "CSPA Protection for Employment-Based Derivative Children with Pending Adjustment Applications",
@@ -376,6 +376,18 @@
       "actionable": false
     },
     {
+      "title": "Fee for Certain H-1B Petitions",
+      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17324/fee-for-certain-h-1b-petitions",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2026-08-25",
+      "summary": "The Department of Homeland Security (DHS) proposes to establish a $103,265 fee, payable at the time of filing, for all H-1B cap-subject petitions, including those eligible for the advanced degree exemption, which would be imposed in addition to all other applicable fees or payments",
+      "categories": [
+        "h1b"
+      ],
+      "actionable": false
+    },
+    {
       "title": "DHS Proposes Unprecedented $103,265 Fee for H-1B Cap-Subject Petitions",
       "url": "https://wolfsdorf.com/dhs-proposes-unprecedented-103265-fee-for-h-1b-cap-subject-petitions/",
       "source": "rss:wr_immigration",
@@ -556,6 +568,18 @@
       "actionable": false
     },
     {
+      "title": "Mandatory Electronic Filing (e-Filing)",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16313/mandatory-electronic-filing-e-filing",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2026-08-11",
+      "summary": "This interim final rule (IFR) amends U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
       "title": "DHS Establishes Fixed Admission Periods for J-1 Exchange Visitors Effective September 15, 2026",
       "url": "https://wolfsdorf.com/dhs-establishes-fixed-admission-periods-for-j-1-exchange-visitors-effective-september-15-2026/",
       "source": "rss:wr_immigration",
@@ -688,6 +712,18 @@
       "actionable": false
     },
     {
+      "title": "Visas: Visa Bond Program",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15726/visas-visa-bond-program",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2026-08-03",
+      "summary": "This rule finalizes the temporary final rule that went into effect on August 20, 2025, which launched a 12-month long Visa Bond Pilot Program (Pilot Program), and establishes a permanent visa bond program",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
       "title": "National Study: Only 1 in 4 Americans Believe They Can Influence Outcomes In Their Local Community",
       "url": "https://www.americanimmigrationcouncil.org/press-release/national-study-influence-local-community/",
       "source": "rss:american_immigration_council",
@@ -760,6 +796,18 @@
       "actionable": false
     },
     {
+      "title": "Public Charge Ground of Inadmissibility",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14539/public-charge-ground-of-inadmissibility",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2026-07-20",
+      "summary": "DHS is rescinding the 2022 public charge ground of inadmissibility regulations (\"2022 Final Rule\")",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
       "title": "USCIS Reaches Fiscal Year 2027 H-1B Cap",
       "url": "https://www.uscis.gov/newsroom/alerts/uscis-reaches-fiscal-year-2027-h-1b-cap",
       "source": "rss:uscis_alerts",
@@ -768,6 +816,18 @@
       "summary": "U.S",
       "categories": [
         "h1b"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2026-07-17",
+      "summary": "The Department of Homeland Security (DHS) is amending its regulations to change the admission period in the F, J, and I classifications from duration of status to an admission for a fixed time period, and additional changes to admission and extension requirements",
+      "categories": [
+        "general"
       ],
       "actionable": false
     },
@@ -868,6 +928,18 @@
       "actionable": false
     },
     {
+      "title": "Alien Registration Form and Evidence of Registration",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13057/alien-registration-form-and-evidence-of-registration",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2026-06-29",
+      "summary": "On March 12, 2025, DHS issued an interim final rule (IFR) with request for comments amending DHS regulations to designate a new registration form for aliens to comply with statutory alien registration and fingerprinting provisions",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
       "title": "Important Notice for Clients of Former Immigration Attorney Alexandra Lozano",
       "url": "https://www.uscis.gov/newsroom/alerts/important-notice-for-clients-of-former-immigration-attorney-alexandra-lozano",
       "source": "rss:uscis_alerts",
@@ -886,6 +958,18 @@
       "source_trust": "analysis",
       "published_at": "2026-06-25T15:58:09+00:00",
       "summary": "The Supreme Court ruled today that the Trump administration could turn back asylum seekers at ports of entry along the southern border, and that doing so does not violate federal immigration law",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Naturalization Application Fee Adjustments",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12542/naturalization-application-fee-adjustments",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2026-06-23",
+      "summary": "The Department of Homeland Security (DHS) proposes to adjust the fees that U.S",
       "categories": [
         "general"
       ],
@@ -928,6 +1012,18 @@
       "actionable": false
     },
     {
+      "title": "Schedule of Fees for Consular Services, Department of State and Overseas Embassies and Consulates-Visa and Citizenship Services Fee Changes",
+      "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11513/schedule-of-fees-for-consular-services-department-of-state-and-overseas-embassies-and",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2026-06-09",
+      "summary": "This temporary final rule (TFR) temporarily amends the Schedule of Fees for Consular Services (Schedule) to create a $750 fee for an expedited B1/B2, business and tourism, nonimmigrant visa (NIV) interview appointment",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": true
+    },
+    {
       "title": "USCIS Opens Asylum Office in San Antonio",
       "url": "https://www.uscis.gov/newsroom/alerts/uscis-opens-asylum-office-in-san-antonio",
       "source": "rss:uscis_alerts",
@@ -940,12 +1036,48 @@
       "actionable": false
     },
     {
+      "title": "Clarification of Discretionary Employment Authorization for Certain Aliens",
+      "url": "https://www.federalregister.gov/documents/2026/06/05/2026-11285/clarification-of-discretionary-employment-authorization-for-certain-aliens",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2026-06-05",
+      "summary": "The Department of Homeland Security proposes to limit and clarify eligibility for discretionary employment authorization for aliens paroled into the United States temporarily for urgent humanitarian reasons or significant public benefit, who have been granted deferred action, or against whom a final order of removal exists and who are temporarily released from custody on an order of supervision",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "30-Day Notice of Proposed Information Collection: Application for A, G, or NATO Visa",
+      "url": "https://www.federalregister.gov/documents/2026/06/05/2026-11347/30-day-notice-of-proposed-information-collection-application-for-a-g-or-nato-visa",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2026-06-05",
+      "summary": "The Department of State is seeking Office of Management and Budget (OMB) approval for the information collection described below",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
       "title": "USCIS Screening and Vetting Efforts Lead to 18-month Sentencing of Illegal Alien in Fraud Case",
       "url": "https://www.uscis.gov/newsroom/news-releases/uscis-screening-and-vetting-efforts-lead-to-18-month-sentencing-of-illegal-alien-in-fraud-case",
       "source": "rss:uscis_news",
       "source_trust": "official",
       "published_at": "2026-06-01T19:30:07+00:00",
       "summary": "U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Extension of Lebanon Designation for Temporary Protected Status",
+      "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10704/extension-of-lebanon-designation-for-temporary-protected-status",
+      "source": "federal_register:uscis_rules",
+      "source_trust": "official",
+      "published_at": "2026-05-29",
+      "summary": "The designation of Lebanon for Temporary Protected Status (TPS), which was set to expire on May 27, 2026, is automatically extended to November 27, 2026",
       "categories": [
         "general"
       ],
@@ -1012,12 +1144,36 @@
       "actionable": false
     },
     {
+      "title": "Signatures on Immigration Benefit Requests",
+      "url": "https://www.federalregister.gov/documents/2026/05/11/2026-09289/signatures-on-immigration-benefit-requests",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2026-05-11",
+      "summary": "The Department of Homeland Security (DHS) is amending its regulations governing the submission of benefit requests to provide that if U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
       "title": "Cap\u202fReached\u202ffor\u202fSecond Allocation of\u202fReturning Worker\u202fH-2B\u202fVisas for Fiscal Year 2026",
       "url": "https://www.uscis.gov/newsroom/alerts/cap-reached-for-second-allocation-of-returning-worker-h-2b-visas-for-fiscal-year-2026",
       "source": "rss:uscis_alerts",
       "source_trust": "official",
       "published_at": "2026-04-29T19:00:52+00:00",
       "summary": "U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "USCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill",
+      "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08333/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2026-04-29",
+      "summary": "The U.S",
       "categories": [
         "general"
       ],
@@ -1144,6 +1300,18 @@
       "actionable": false
     },
     {
+      "title": "60-Day Notice of Proposed Information Collection: Application for A, G, or NATO Visa",
+      "url": "https://www.federalregister.gov/documents/2026/03/11/2026-04716/60-day-notice-of-proposed-information-collection-application-for-a-g-or-nato-visa",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2026-03-11",
+      "summary": "The Department of State is seeking Office of Management and Budget (OMB) approval for the information collection described below",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
       "title": "USCIS Helps in Immigration Fraud Investigation Resulting in Indictments and Arrests in New York City",
       "url": "https://www.uscis.gov/newsroom/news-releases/uscis-helps-in-immigration-fraud-investigation-resulting-in-indictments-and-arrests-in-new-york-city",
       "source": "rss:uscis_news",
@@ -1162,6 +1330,18 @@
       "source_trust": "official",
       "published_at": "2026-02-24T20:01:29+00:00",
       "summary": "A federal judge sentenced convicted child molester Isidro Arcenio Alvarado, 58, a native of El Salvador, to active prison time after he pleaded guilty to fraudulently obtaining U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Employment Authorization Reform for Asylum Applicants",
+      "url": "https://www.federalregister.gov/documents/2026/02/23/2026-03595/employment-authorization-reform-for-asylum-applicants",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2026-02-23",
+      "summary": "The U.S",
       "categories": [
         "general"
       ],
@@ -1564,6 +1744,30 @@
       "actionable": false
     },
     {
+      "title": "Collection and Use of Biometrics by U.S. Citizenship and Immigration Services",
+      "url": "https://www.federalregister.gov/documents/2025/11/03/2025-19747/collection-and-use-of-biometrics-by-us-citizenship-and-immigration-services",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2025-11-03",
+      "summary": "The U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Removal of the Automatic Extension of Employment Authorization Documents",
+      "url": "https://www.federalregister.gov/documents/2025/10/30/2025-19702/removal-of-the-automatic-extension-of-employment-authorization-documents",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2025-10-30",
+      "summary": "This IFR amends DHS regulations to end the practice of automatically extending the validity of employment authorization documents (Forms I-766 or EADs) for aliens who have timely filed an application to renew their EAD in certain employment authorization categories",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
       "title": "DHS Ends Automatic Extension of Employment Authorization",
       "url": "https://www.uscis.gov/newsroom/news-releases/dhs-ends-automatic-extension-of-employment-authorization",
       "source": "rss:uscis_news",
@@ -1584,6 +1788,30 @@
       "summary": "As previously announced, on Oct",
       "categories": [
         "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Collection of Biometric Data From Aliens Upon Entry to and Departure From the United States",
+      "url": "https://www.federalregister.gov/documents/2025/10/27/2025-19655/collection-of-biometric-data-from-aliens-upon-entry-to-and-departure-from-the-united-states",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2025-10-27",
+      "summary": "This final rule amends Department of Homeland Security (DHS) regulations to provide that DHS may require all aliens to be photographed when entering or exiting the United States, and may require non-exempt aliens to provide other biometrics",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
+      "title": "U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule",
+      "url": "https://www.federalregister.gov/documents/2025/10/23/2025-19642/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2025-10-23",
+      "summary": "The Department of Homeland Security (DHS) proposes to adjust Employment-Based Immigration, Fifth Preference (EB-5) immigration benefit request fees charged by U.S",
+      "categories": [
+        "green_card"
       ],
       "actionable": false
     },
@@ -1739,6 +1967,18 @@
       "source_trust": "official",
       "published_at": "2025-09-16T15:16:51+00:00",
       "summary": "U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Schedule of Fees for Consular Services, Department of State and Overseas Embassies and Consulates-Visa Services Fee Changes",
+      "url": "https://www.federalregister.gov/documents/2025/09/16/2025-17851/schedule-of-fees-for-consular-services-department-of-state-and-overseas-embassies-and",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2025-09-16",
+      "summary": "The Department of State (\"Department\") proposes an adjustment to the Schedule of Fees for Consular Services of the Department of State's Bureau of Consular Affairs (\"Schedule of Fees\" or \"Schedule\") to establish a $1 fee to register for the Diversity Visa lottery program",
       "categories": [
         "general"
       ],
@@ -1913,6 +2153,18 @@
       "actionable": false
     },
     {
+      "title": "Visas: Visa Bond Pilot Program",
+      "url": "https://www.federalregister.gov/documents/2025/08/05/2025-14826/visas-visa-bond-pilot-program",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2025-08-05",
+      "summary": "In this temporary final rule (TFR), the Department of State (the Department) announces the commencement of a 12-month long visa bond pilot program",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
       "title": "USCIS Updating Policy to Protect Women\u2019s Sports",
       "url": "https://www.uscis.gov/newsroom/news-releases/uscis-updating-policy-to-protect-womens-sports",
       "source": "rss:uscis_news",
@@ -1966,6 +2218,18 @@
       "source": "rss:uscis_news",
       "source_trust": "official",
       "published_at": "2025-07-23T18:29:22+00:00",
+      "summary": "U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "USCIS Immigration Fees Required by HR-1 Reconciliation Bill",
+      "url": "https://www.federalregister.gov/documents/2025/07/22/2025-13738/uscis-immigration-fees-required-by-hr-1-reconciliation-bill",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2025-07-22",
       "summary": "U.S",
       "categories": [
         "general"
@@ -2087,6 +2351,18 @@
       "source_trust": "official",
       "published_at": "2025-06-27T20:04:36+00:00",
       "summary": "Secretary of Homeland Security Kristi Noem today announced the termination of Temporary Protected Status for Haiti",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
+      "title": "Imposition and Collection of Civil Penalties for Certain Immigration-Related Violations",
+      "url": "https://www.federalregister.gov/documents/2025/06/27/2025-11965/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2025-06-27",
+      "summary": "This interim final rule (\"IFR\") amends existing DHS and DOJ regulations",
       "categories": [
         "general"
       ],
@@ -2862,6 +3138,43 @@
       "actionable": false
     },
     {
+      "title": "Application of Certain Mandatory Bars in Fear Screenings",
+      "url": "https://www.federalregister.gov/documents/2024/12/18/2024-29617/application-of-certain-mandatory-bars-in-fear-screenings",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2024-12-18",
+      "summary": "The Department of Homeland Security (DHS or Department) is amending its regulations to allow asylum officers (AOs) to consider the potential applicability of certain bars to asylum and statutory withholding of removal during credible fear and reasonable fear screenings, including credible fear screenings where the Circumvention of Lawful Pathways or Securing the Border rules apply",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Modernizing H-1B Requirements, Providing Flexibility in the F-1 Program, and Program Improvements Affecting Other Nonimmigrant Workers",
+      "url": "https://www.federalregister.gov/documents/2024/12/18/2024-29354/modernizing-h-1b-requirements-providing-flexibility-in-the-f-1-program-and-program-improvements",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2024-12-18",
+      "summary": "The U.S",
+      "categories": [
+        "f1",
+        "h1b"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Modernizing H-2 Program Requirements, Oversight, and Worker Protections",
+      "url": "https://www.federalregister.gov/documents/2024/12/18/2024-29353/modernizing-h-2-program-requirements-oversight-and-worker-protections",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2024-12-18",
+      "summary": "The Department of Homeland Security (DHS) is amending its regulations affecting temporary agricultural (H-2A) and temporary nonagricultural (H-2B) nonimmigrant workers (H-2 programs) and their employers",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
       "title": "DHS Publishes Final Rule for the Application of Certain Mandatory Bars in Fear Screenings",
       "url": "https://www.uscis.gov/newsroom/alerts/dhs-publishes-final-rule-for-the-application-of-certain-mandatory-bars-in-fear-screenings",
       "source": "rss:uscis_alerts",
@@ -2886,6 +3199,18 @@
       "actionable": false
     },
     {
+      "title": "Increase of the Automatic Extension Period of Employment Authorization and Documentation for Certain Employment Authorization Document Renewal Applicants",
+      "url": "https://www.federalregister.gov/documents/2024/12/13/2024-28584/increase-of-the-automatic-extension-period-of-employment-authorization-and-documentation-for-certain",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2024-12-13",
+      "summary": "This final rule amends DHS regulations to permanently increase the automatic extension period for expiring employment authorization and/or Employment Authorization Documents (Forms I-766 or EADs) for certain renewal applicants who have timely filed Form I-765, Application for Employment Authorization, from up to 180 days to up to 540 days",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
       "title": "USCIS Issues Updated Guidance on Evidence for Applicants Under the International Entrepreneur Rule",
       "url": "https://www.uscis.gov/newsroom/alerts/uscis-issues-updated-guidance-on-evidence-for-applicants-under-the-international-entrepreneur-rule",
       "source": "rss:uscis_alerts",
@@ -2906,6 +3231,18 @@
       "summary": "On Dec",
       "categories": [
         "green_card"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Public Notice of Revised Exchange Visitor Skills List",
+      "url": "https://www.federalregister.gov/documents/2024/12/09/2024-28718/public-notice-of-revised-exchange-visitor-skills-list",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2024-12-09",
+      "summary": "The Department of State (\"Department\") is announcing an update of the Exchange Visitors Skills List (\"Skills List\")",
+      "categories": [
+        "general"
       ],
       "actionable": false
     },
@@ -3030,6 +3367,18 @@
       "actionable": false
     },
     {
+      "title": "Securing the Border",
+      "url": "https://www.federalregister.gov/documents/2024/10/07/2024-22602/securing-the-border",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2024-10-07",
+      "summary": "On June 3, 2024, the President signed a Proclamation under sections 212(f) and 215(a) of the Immigration and Nationality Act (\"INA\") suspending and limiting the entry of certain noncitizens into the United States during emergency border circumstances",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
       "title": "USCIS Issues New Guidance on EB-1 Eligibility Criteria for Individuals with Extraordinary Ability",
       "url": "https://www.uscis.gov/newsroom/alerts/uscis-issues-new-guidance-on-eb-1-eligibility-criteria-for-individuals-with-extraordinary-ability",
       "source": "rss:uscis_alerts",
@@ -3126,6 +3475,18 @@
       "actionable": false
     },
     {
+      "title": "30-Day Notice of Proposed Information Collection: DS-156E, Nonimmigrant Treaty Trader/Investor Application",
+      "url": "https://www.federalregister.gov/documents/2024/08/28/2024-19259/30-day-notice-of-proposed-information-collection-ds-156e-nonimmigrant-treaty-traderinvestor",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2024-08-28",
+      "summary": "The Department of State has submitted the information collection described below to the Office of Management and Budget (OMB) for approval",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
       "title": "USCIS Updates Guidance for F/M Nonimmigrant Student Classification",
       "url": "https://www.uscis.gov/newsroom/alerts/uscis-updates-guidance-for-fm-nonimmigrant-student-classification",
       "source": "rss:uscis_alerts",
@@ -3134,6 +3495,30 @@
       "summary": "We are updating guidance in the\u00a0USCIS Policy Manual regarding when students may be eligible for optional practical training (OPT) extensions for Science, Technology, Engineering, and Mathematics (STEM) fields.",
       "categories": [
         "opt"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Visas: Visa Ineligibility",
+      "url": "https://www.federalregister.gov/documents/2024/08/22/2024-18659/visas-visa-ineligibility",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2024-08-22",
+      "summary": "The Department of State (\"Department\") is amending a regulation relating to the effect of certain pardons on criminal- related grounds of visa ineligibility.",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Implementation of Keeping Families Together",
+      "url": "https://www.federalregister.gov/documents/2024/08/20/2024-18725/implementation-of-keeping-families-together",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2024-08-20",
+      "summary": "This notice announces the U.S",
+      "categories": [
+        "general"
       ],
       "actionable": false
     },
@@ -3318,6 +3703,18 @@
       "actionable": false
     },
     {
+      "title": "Third-Party Attendance at Appointments for Passport, Consular Report of Birth Abroad (CRBA), and Certain Other Services",
+      "url": "https://www.federalregister.gov/documents/2024/05/13/2024-10245/third-party-attendance-at-appointments-for-passport-consular-report-of-birth-abroad-crba-and-certain",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2024-05-13",
+      "summary": "This rule adopts as final the notice of proposed rulemaking (NPRM) published in the Federal Register on July 26, 2023",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
       "title": "USCIS Clarifies Policy on Location of H-3 Training",
       "url": "https://www.uscis.gov/newsroom/alerts/uscis-clarifies-policy-on-location-of-h-3-training",
       "source": "rss:uscis_alerts",
@@ -3354,6 +3751,30 @@
       "actionable": false
     },
     {
+      "title": "Flight Training Security Program",
+      "url": "https://www.federalregister.gov/documents/2024/05/01/2024-08800/flight-training-security-program",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2024-05-01",
+      "summary": "The Transportation Security Administration (TSA) is finalizing the 2004 interim final rule (IFR) that established the Flight Training Security Program (FTSP) (formerly known as the Alien Flight Student Program)",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
+      "title": "Classification for Victims of Severe Forms of Trafficking in Persons; Eligibility for \u201cT\u201d Nonimmigrant Status",
+      "url": "https://www.federalregister.gov/documents/2024/04/30/2024-09022/classification-for-victims-of-severe-forms-of-trafficking-in-persons-eligibility-for-t-nonimmigrant",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2024-04-30",
+      "summary": "On December 19, 2016, the Department of Homeland Security (DHS) published an interim final rule (2016 interim rule) amending its regulations governing the requirements and procedures for victims of a severe form of trafficking in persons seeking T nonimmigrant status",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
       "title": "USCIS Reminds Certain Employment-Based Petitioners to Submit the Correct Required Fees",
       "url": "https://www.uscis.gov/newsroom/alerts/uscis-reminds-certain-employment-based-petitioners-to-submit-the-correct-required-fees",
       "source": "rss:uscis_alerts",
@@ -3374,6 +3795,30 @@
       "summary": "The Department of Homeland Security and U.S",
       "categories": [
         "green_card"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "60-Day Notice of Proposed Information Collection: DS-156E, Nonimmigrant Treaty Trader/Investor Application",
+      "url": "https://www.federalregister.gov/documents/2024/04/29/2024-09098/60-day-notice-of-proposed-information-collection-ds-156e-nonimmigrant-treaty-traderinvestor",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2024-04-29",
+      "summary": "The Department of State is seeking Office of Management and Budget (OMB) approval for the information collection described below",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "30-Day Notice of Proposed Information Collection: Supplemental Questions for Visa Applicants",
+      "url": "https://www.federalregister.gov/documents/2024/04/29/2024-09082/30-day-notice-of-proposed-information-collection-supplemental-questions-for-visa-applicants",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2024-04-29",
+      "summary": "The Department of State has submitted the information collection described below to the Office of Management and Budget (OMB) for approval",
+      "categories": [
+        "general"
       ],
       "actionable": false
     },
@@ -3436,6 +3881,18 @@
         "green_card"
       ],
       "actionable": false
+    },
+    {
+      "title": "Temporary Increase of the Automatic Extension Period of Employment Authorization and Documentation for Certain Employment Authorization Document Renewal Applicants",
+      "url": "https://www.federalregister.gov/documents/2024/04/08/2024-07345/temporary-increase-of-the-automatic-extension-period-of-employment-authorization-and-documentation",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2024-04-08",
+      "summary": "This rule temporarily amends existing Department of Homeland Security (DHS) regulations to provide that the automatic extension period applicable to expiring Employment Authorization Documents (Forms I-766 or EADs) for certain renewal applicants who have filed Form I- 765, Application for Employment Authorization (EAD application), will be increased from up to 180 days to up to 540 days from the expiration date stated on their EADs",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
     },
     {
       "title": "USCIS Announces New Guidance on Form I-693 Validity Period",
@@ -3570,6 +4027,18 @@
       "actionable": false
     },
     {
+      "title": "U.S. Citizenship and Immigration Services Fee Schedule and Changes to Certain Other Immigration Benefit Request Requirements; Correction",
+      "url": "https://www.federalregister.gov/documents/2024/03/21/2024-05935/us-citizenship-and-immigration-services-fee-schedule-and-changes-to-certain-other-immigration",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2024-03-21",
+      "summary": "USCIS is correcting a final rule that appeared in the Federal Register on January 31, 2024",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
       "title": "USCIS Clarifies Anti-Discrimination Policy",
       "url": "https://www.uscis.gov/newsroom/alerts/uscis-clarifies-anti-discrimination-policy",
       "source": "rss:uscis_alerts",
@@ -3654,6 +4123,18 @@
       "actionable": false
     },
     {
+      "title": "U.S. Citizenship and Immigration Services Fee Schedule and Changes to Certain Other Immigration Benefit Request Requirements",
+      "url": "https://www.federalregister.gov/documents/2024/01/31/2024-01427/us-citizenship-and-immigration-services-fee-schedule-and-changes-to-certain-other-immigration",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2024-01-31",
+      "summary": "This final rule adjusts certain immigration and naturalization benefit request fees charged by USCIS",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
       "title": "USCIS Issues Final Rule to Adjust Certain Immigration and Naturalization Fees",
       "url": "https://www.uscis.gov/newsroom/news-releases/uscis-issues-final-rule-to-adjust-certain-immigration-and-naturalization-fees",
       "source": "rss:uscis_news",
@@ -3702,6 +4183,18 @@
       "actionable": false
     },
     {
+      "title": "Guam-Commonwealth of the Northern Mariana Islands (CNMI) Visa Waiver Program Automation and Electronic Travel Authorization; Creation of CNMI Economic Vitality & Security Travel Authorization Program (EVS-TAP)",
+      "url": "https://www.federalregister.gov/documents/2024/01/18/2024-00645/guam-commonwealth-of-the-northern-mariana-islands-cnmi-visa-waiver-program-automation-and-electronic",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2024-01-18",
+      "summary": "This rule amends the Department of Homeland Security regulations to require persons intending to travel to Guam or the Commonwealth of the Northern Mariana Islands (CNMI) under the Guam-CNMI Visa Waiver Program (G-CNMI VWP) to submit Form I-736 electronically in advance of travel and receive an electronic travel authorization prior to embarking on a carrier for travel to Guam or the CNMI",
+      "categories": [
+        "travel_entry"
+      ],
+      "actionable": false
+    },
+    {
       "title": "Cap Reached for Additional Returning Worker H-2B Visas for the First Half of FY 2024",
       "url": "https://www.uscis.gov/newsroom/alerts/cap-reached-for-additional-returning-worker-h-2b-visas-for-the-first-half-of-fy-2024",
       "source": "rss:uscis_alerts",
@@ -3733,6 +4226,19 @@
       "published_at": "2024-01-05T14:29:41+00:00",
       "summary": "U.S",
       "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Pilot Program To Resume Renewal of H-1B Nonimmigrant Visas in the United States for Certain Qualified Noncitizens",
+      "url": "https://www.federalregister.gov/documents/2023/12/21/2023-28160/pilot-program-to-resume-renewal-of-h-1b-nonimmigrant-visas-in-the-united-states-for-certain",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2023-12-21",
+      "summary": "The Department of State (the \"Department\") is announcing a pilot program to resume domestic visa renewal for qualified H-1B nonimmigrant visa applicants who meet certain requirements",
+      "categories": [
+        "h1b",
         "green_card"
       ],
       "actionable": false
@@ -3782,6 +4288,18 @@
       "summary": "U.S",
       "categories": [
         "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Immigrant Visas",
+      "url": "https://www.federalregister.gov/documents/2023/12/07/2023-26907/immigrant-visas",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2023-12-07",
+      "summary": "The Department of State (\"Department\") is amending its regulation governing immigrant visas by removing the section which allows a consular officer to conduct an informal evaluation of the family members of an immigrant visa applicant to identify potential grounds of ineligibility",
+      "categories": [
+        "green_card"
       ],
       "actionable": false
     },
@@ -4038,6 +4556,18 @@
       "actionable": false
     },
     {
+      "title": "60-Day Notice of Proposed Information Collection: Supplemental Questions for Visa Applicants",
+      "url": "https://www.federalregister.gov/documents/2023/09/22/2023-20565/60-day-notice-of-proposed-information-collection-supplemental-questions-for-visa-applicants",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2023-09-22",
+      "summary": "The Department of State is seeking Office of Management and Budget (OMB) approval for the information collection described below",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
       "title": "Secretary Mayorkas Announces Extension and Redesignation of Afghanistan for Temporary Protected Status",
       "url": "https://www.uscis.gov/newsroom/news-releases/secretary-mayorkas-announces-extension-and-redesignation-of-afghanistan-for-temporary-protected",
       "source": "rss:uscis_news",
@@ -4094,6 +4624,402 @@
       "summary": "U.S",
       "categories": [
         "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Visas: Ineligibility Based on Public Charge",
+      "url": "https://www.federalregister.gov/documents/2023/09/05/2023-19047/visas-ineligibility-based-on-public-charge",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2023-09-05",
+      "summary": "The Department of State (\"Department\") has decided not to finalize the regulatory amendments made by the 2019 interim final rule entitled \"Visas: Ineligibility Based on Public Charge Grounds\" published in the Federal Register on October 11, 2019 (\"2019 IFR\")",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
+      "title": "Visas: Nonimmigrant Visas; Immigrant Visas",
+      "url": "https://www.federalregister.gov/documents/2023/07/14/2023-14538/visas-nonimmigrant-visas-immigrant-visas",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2023-07-14",
+      "summary": "The Department of State (Department) amends its regulations governing nonimmigrant and immigrant visas to update classification symbols and descriptions for certain immigrant and nonimmigrant visas.",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Vetting of Certain Surface Transportation Employees",
+      "url": "https://www.federalregister.gov/documents/2023/05/23/2023-10131/vetting-of-certain-surface-transportation-employees",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2023-05-23",
+      "summary": "The Transportation Security Administration (TSA) is proposing a regulation to implement provisions of the Implementing Recommendations of the 9/11 Commission Act of 2007 (9/11 Act) that require security vetting of certain public transportation, railroad, and over-the-road-bus (OTRB) employees",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Circumvention of Lawful Pathways",
+      "url": "https://www.federalregister.gov/documents/2023/05/16/2023-10146/circumvention-of-lawful-pathways",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2023-05-16",
+      "summary": "The Department of Homeland Security (\"DHS\") and the Department of Justice (\"DOJ\") are issuing a final rule in anticipation of a potential surge of migration at the southwest border (\"SWB\") of the United States following the termination of the Centers for Disease Control and Prevention's (\"CDC\") public health Order",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
+      "title": "Implementation of the 2022 Additional Protocol to the 2002 U.S.-Canada Agreement for Cooperation in the Examination of Refugee Status Claims From Nationals of Third Countries",
+      "url": "https://www.federalregister.gov/documents/2023/03/28/2023-06351/implementation-of-the-2022-additional-protocol-to-the-2002-us-canada-agreement-for-cooperation-in",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2023-03-28",
+      "summary": "This rule amends existing Department of Homeland Security (\"DHS\") and Department of Justice (\"DOJ\") (collectively, \"the Departments\") regulations to implement the Additional Protocol to the Agreement between The Government of the United States of America and The Government of Canada For Cooperation in the Examination of Refugee Status Claims From Nationals of Third Countries (\"Additional Protocol of 2022\") negotiated by the Governments of the United States and Canada and signed in Ottawa, Ontario, Canada, on March 29, 2022, and in Washington, DC, United States, on April 15, 2022, respectively",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Schedule of Fees for Consular Services-Nonimmigrant and Special Visa Fees",
+      "url": "https://www.federalregister.gov/documents/2023/03/28/2023-06290/schedule-of-fees-for-consular-services-nonimmigrant-and-special-visa-fees",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2023-03-28",
+      "summary": "This rule adopts as final adjustments to the Schedule of Fees for Consular Services (Schedule of Fees) for several nonimmigrant visa (NIV) application processing fees and the Border Crossing Card (BCC) for Mexican citizens age 15 and over",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Visas: Procedures for Issuing Visas",
+      "url": "https://www.federalregister.gov/documents/2023/03/06/2023-04405/visas-procedures-for-issuing-visas",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2023-03-06",
+      "summary": "The Department of State is updating its regulation regarding visa applicants' furnishing of signed photographs as required under Section 221(b) of the Immigration and Nationality Act",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "30-Day Notice of Proposed Information Collection: Nonimmigrant Treaty Trader/Investor Application",
+      "url": "https://www.federalregister.gov/documents/2022/09/30/2022-21199/30-day-notice-of-proposed-information-collection-nonimmigrant-treaty-traderinvestor-application",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2022-09-30",
+      "summary": "The Department of State has submitted the information collection described below to the Office of Management and Budget (OMB) for approval",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Visas: Eligibility for Diplomatic Visa Issuance In the United States",
+      "url": "https://www.federalregister.gov/documents/2022/08/31/2022-18810/visas-eligibility-for-diplomatic-visa-issuance-in-the-united-states",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2022-08-31",
+      "summary": "This rule is promulgated to add categories of nonimmigrants who may be issued nonimmigrant visas in the United States",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Deferred Action for Childhood Arrivals",
+      "url": "https://www.federalregister.gov/documents/2022/08/30/2022-18401/deferred-action-for-childhood-arrivals",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2022-08-30",
+      "summary": "On September 28, 2021, the Department of Homeland Security (DHS) published a notice of proposed rulemaking (NPRM or proposed rule) that proposed to establish regulations to preserve and fortify the Deferred Action for Childhood Arrivals (DACA) policy to defer removal of certain noncitizens who years earlier came to the United States as children, meet other criteria, and do not present other circumstances that would warrant removal",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "60-Day Notice of Proposed Information Collection: Nonimmigrant Treaty Trader/Investor Application",
+      "url": "https://www.federalregister.gov/documents/2022/07/12/2022-14772/60-day-notice-of-proposed-information-collection-nonimmigrant-treaty-traderinvestor-application",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2022-07-12",
+      "summary": "The Department of State is seeking Office of Management and Budget (OMB) approval for the information collection described below",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Temporary Increase of the Automatic Extension Period of Employment Authorization and Documentation for Certain Renewal Applicants",
+      "url": "https://www.federalregister.gov/documents/2022/05/04/2022-09539/temporary-increase-of-the-automatic-extension-period-of-employment-authorization-and-documentation",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2022-05-04",
+      "summary": "This rule temporarily amends existing Department of Homeland Security (DHS) regulations to provide that the automatic extension period applicable to expiring Employment Authorization Documents (Forms I-766 or EADs) for certain renewal applicants who have filed Form I- 765, Application for Employment Authorization, will be increased from up to 180 days to up to 540 days from the expiration date stated on their EADs",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
+      "title": "Procedures for Credible Fear Screening and Consideration of Asylum, Withholding of Removal, and CAT Protection Claims by Asylum Officers",
+      "url": "https://www.federalregister.gov/documents/2022/03/29/2022-06148/procedures-for-credible-fear-screening-and-consideration-of-asylum-withholding-of-removal-and-cat",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2022-03-29",
+      "summary": "On August 20, 2021, the Department of Homeland Security (\"DHS\") and the Department of Justice (\"DOJ\") (collectively \"the Departments\") published a notice of proposed rulemaking (\"NPRM\" or \"proposed rule\") that proposed amending regulations governing the procedures for determining certain protection claims and available parole procedures for individuals subject to expedited removal and found to have a credible fear of persecution or torture",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Asylum Interview Interpreter Requirement Modification Due to COVID-19",
+      "url": "https://www.federalregister.gov/documents/2022/03/16/2022-05636/asylum-interview-interpreter-requirement-modification-due-to-covid-19",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2022-03-16",
+      "summary": "The Department of Homeland Security (DHS) is extending, for a third time, the effective date (for 365 days) of its temporary final rule that modified certain regulatory requirements to help ensure that USCIS may continue with affirmative asylum adjudications during the COVID-19 pandemic.",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
+      "title": "Visas: Immigrant Visas",
+      "url": "https://www.federalregister.gov/documents/2022/01/19/2022-00829/visas-immigrant-visas",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2022-01-19",
+      "summary": "The Department of State (Department) amends its regulation governing immigrant visa fees to allow for the exemption from immigrant visa (IV) fees for certain applicants previously denied an immigrant visa pursuant to certain Presidential Proclamations issued by the previous administration and associated technical corrections.",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Waiver of Personal Appearance and In-Person Oath Requirement for Certain Immigrant Visa Applicants Due to COVID-19",
+      "url": "https://www.federalregister.gov/documents/2021/12/13/2021-26657/waiver-of-personal-appearance-and-in-person-oath-requirement-for-certain-immigrant-visa-applicants",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2021-12-13",
+      "summary": "This temporary final rule (TFR) provides flexibility for consular officers to waive the personal appearance of certain repeat immigrant visa applicants who were approved for an immigrant visa in the same classification and on the same basis as the current application on or after August 4, 2019",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": true
+    },
+    {
+      "title": "Privacy Act of 1974; System of Records",
+      "url": "https://www.federalregister.gov/documents/2021/11/08/2021-24303/privacy-act-of-1974-system-of-records",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2021-11-08",
+      "summary": "This system of records compiles information used in the adjudication of U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Visas: Nonimmigrant Visas",
+      "url": "https://www.federalregister.gov/documents/2021/11/05/2021-24045/visas-nonimmigrant-visas",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2021-11-05",
+      "summary": "The Department of State (Department) is amending its regulation governing nonimmigrant visas by amending its rules to remove references to the North American Free Trade Agreement (NAFTA) and replace them with references to the United States-Mexico-Canada Agreement (USMCA).",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Visas: Documentation of Nonimmigrants Under the Immigration and Nationality Act; Validity of Visa",
+      "url": "https://www.federalregister.gov/documents/2021/10/07/2021-21249/visas-documentation-of-nonimmigrants-under-the-immigration-and-nationality-act-validity-of-visa",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2021-10-07",
+      "summary": "This final rule replaces an outdated form name and number with a revised form name and number used for processing exchange visitor visas and updates the agency responsible for maintaining the form.",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
+      "title": "Visas: Eligibility for Diplomatic and Official Visas",
+      "url": "https://www.federalregister.gov/documents/2021/02/22/2021-02552/visas-eligibility-for-diplomatic-and-official-visas",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2021-02-22",
+      "summary": "This rule is promulgated for two reasons: To revise the definition of \"equivalent of a diplomatic passport\" to include non- national passports issued by a competent authority other than a foreign government and as designated by the Secretary of State; and to clarify the categories of nonimmigrants who may be eligible for a \"diplomatic type\" or \"official type\" visa, irrespective of the nonimmigrant visa classification",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "30 Day Notice of Proposed Information Collection: Supplemental Questions for Visa Applicants",
+      "url": "https://www.federalregister.gov/documents/2021/02/05/2021-02413/30-day-notice-of-proposed-information-collection-supplemental-questions-for-visa-applicants",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2021-02-05",
+      "summary": "The Department of State is seeking Office of Management and Budget (OMB) approval for the information collection described below",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Procedures for Asylum and Withholding of Removal; Credible Fear and Reasonable Fear Review",
+      "url": "https://www.federalregister.gov/documents/2020/12/11/2020-26875/procedures-for-asylum-and-withholding-of-removal-credible-fear-and-reasonable-fear-review",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2020-12-11",
+      "summary": "On June 15, 2020, the Department of Homeland Security (\"DHS\") and the Department of Justice (\"DOJ\") (collectively \"the Departments\") published a notice of proposed rulemaking (\"NPRM\" or \"proposed rule\") that would amend the regulations governing credible fear determinations",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Visas: Temporary Visitors for Business or Pleasure",
+      "url": "https://www.federalregister.gov/documents/2020/10/21/2020-21975/visas-temporary-visitors-for-business-or-pleasure",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2020-10-21",
+      "summary": "The Department of State (\"Department\") proposes to amend its regulation governing nonimmigrant visas for temporary visitors for business, the B-1 nonimmigrant visa classification, by removing two sentences defining the term \"business\" that are outdated due to changes in the INA since 1952, from when the two sentences originate",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Removal of Regulations Relating to the Irish Peace Process Cultural Exchange and Training Program",
+      "url": "https://www.federalregister.gov/documents/2020/06/26/2020-12649/removal-of-regulations-relating-to-the-irish-peace-process-cultural-exchange-and-training-program",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2020-06-26",
+      "summary": "In accordance with Executive Orders 13771 and 13777, which direct federal agencies to review and eliminate outdated and unnecessary regulations, the Department of State (\"Department\") is removing regulations related to an obsolete visa program",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "30-Day Notice of Proposed Information Collection: Public Charge Questionnaire",
+      "url": "https://www.federalregister.gov/documents/2020/06/02/2020-11889/30-day-notice-of-proposed-information-collection-public-charge-questionnaire",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2020-06-02",
+      "summary": "The Department of State (\"Department\") is seeking Office of Management and Budget (\"OMB\") approval for the information collection described below",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Notice of OMB Emergency Approval of Information Collection: Public Charge Questionnaire",
+      "url": "https://www.federalregister.gov/documents/2020/03/09/2020-04737/notice-of-omb-emergency-approval-of-information-collection-public-charge-questionnaire",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2020-03-09",
+      "summary": "The Office of Management and Budget (\"OMB\") approved the Department of State's (\"Department\") submission of an information collection described below, the DS-5540, Public Charge Questionnaire (\"DS-5540\"), following the Department's request for emergency processing.",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "60-Day Notice of Proposed Information Collection: Public Charge Questionnaire",
+      "url": "https://www.federalregister.gov/documents/2019/10/24/2019-23219/60-day-notice-of-proposed-information-collection-public-charge-questionnaire",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2019-10-24",
+      "summary": "The Department of State (\"Department\") is seeking Office of Management and Budget (OMB) approval for the information collection described below",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Visas: Ineligibility Based on Public Charge Grounds",
+      "url": "https://www.federalregister.gov/documents/2019/10/11/2019-22399/visas-ineligibility-based-on-public-charge-grounds",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2019-10-11",
+      "summary": "This final rule amends Department of State (\"Department\") regulations by prescribing how consular officers will determine whether an alien is ineligible for a visa under the Immigration and Nationality Act (\"INA\"), because he or she is likely at any time to become a public charge",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
+      "title": "Visa Information Update Requirements Under the Electronic Visa Update System (EVUS)",
+      "url": "https://www.federalregister.gov/documents/2019/05/21/2019-10528/visa-information-update-requirements-under-the-electronic-visa-update-system-evus",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2019-05-21",
+      "summary": "The Department of State is confirming the effective date of November 29, 2016, for the final rule that published in the Federal Register of October 26, 2016, instituting a requirement for nonimmigrant aliens who hold a passport issued by an identified country containing a U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
+      "title": "Visas: Waiver for Ineligible Nonimmigrants Under Section 212(d)(3)(A)(i) of the Immigration and Nationality Act",
+      "url": "https://www.federalregister.gov/documents/2019/05/06/2019-09185/visas-waiver-for-ineligible-nonimmigrants-under-section-212d3ai-of-the-immigration-and-nationality",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2019-05-06",
+      "summary": "Under the Immigration and Nationality Act (INA), a visa applicant found inadmissible is ineligible for a visa and for admission to the United States",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Refusal Procedures for Visas",
+      "url": "https://www.federalregister.gov/documents/2019/04/22/2019-08061/refusal-procedures-for-visas",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2019-04-22",
+      "summary": "This rule is largely technical in nature and conforms a narrow aspect of the Department's visa regulations to the law",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Visas: Documentation of Nonimmigrants Under the Immigration and Nationality Act, as Amended",
+      "url": "https://www.federalregister.gov/documents/2018/07/06/2018-14513/visas-documentation-of-nonimmigrants-under-the-immigration-and-nationality-act-as-amended",
+      "source": "federal_register:state_dept_rules",
+      "source_trust": "official",
+      "published_at": "2018-07-06",
+      "summary": "As a result of this rule, the Department of State finalizes without change a final rule establishing that a passport and a visa is required of a British, French, or Netherlands national, or of a national of Antigua, Barbados, Grenada, Jamaica, or Trinidad and Tobago, who has residence in British, French, or Netherlands territory located in the adjacent islands of the Caribbean area, or has residence in Antigua, Barbados, Grenada, Jamaica, or Trinidad and Tobago, if the alien is proceeding to the United States as an agricultural worker",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
+      "title": "Adjusting Program Fees and Establishing Procedures for Out-of-Cycle Review and Recertification of Schools Certified by the Student and Exchange Visitor Program To Enroll F or M Nonimmigrant Students",
+      "url": "https://www.federalregister.gov/documents/2008/04/21/E8-8261/adjusting-program-fees-and-establishing-procedures-for-out-of-cycle-review-and-recertification-of",
+      "source": "federal_register:ice_rules",
+      "source_trust": "official",
+      "published_at": "2008-04-21",
+      "summary": "The Department of Homeland Security (DHS) is proposing to amend the Student and Exchange Visitor Program (SEVP) school certification petition fee and the application fee for nonimmigrants seeking to become academic (F visa) or vocational (M visa) students, or exchange visitors (J visa)",
+      "categories": [
+        "f1"
       ],
       "actionable": false
     }
