@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-09-17T19:43:06.863146+00:00",
+  "generated_at": "2026-09-17T22:50:39.720995+00:00",
   "count": 418,
   "source_count": 10,
   "items": [
+    {
+      "title": "WR Immigration News Digest",
+      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20260917/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-09-17T19:46:24+00:00",
+      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "DHS Oversight Agency Issues Scathing Report of Conditions at \u2018Alligator Alcatraz\u2019",
       "url": "https://www.americanimmigrationcouncil.org/uncategorized/alligator-alcatraz-dhs-oversight-report/",
@@ -252,18 +264,6 @@
       "summary": "On Aug",
       "categories": [
         "green_card"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "WR Immigration News Digest",
-      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20260903/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-09-03T19:21:25+00:00",
-      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
-      "categories": [
-        "general"
       ],
       "actionable": false
     },
