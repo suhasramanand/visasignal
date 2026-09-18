@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-09-18T19:01:35.240487+00:00",
-  "count": 412,
+  "generated_at": "2026-09-18T22:34:01.940706+00:00",
+  "count": 413,
   "source_count": 9,
   "items": [
+    {
+      "title": "Five Defendants Charged with Defrauding and Exploiting H-2A Visa Program to Smuggle Aliens into the United States",
+      "url": "https://www.uscis.gov/newsroom/news-releases/five-defendants-charged-with-defrauding-and-exploiting-h-2a-visa-program-to-smuggle-aliens-into-the",
+      "source": "rss:uscis_news",
+      "source_trust": "official",
+      "published_at": "2026-09-18T19:54:56+00:00",
+      "summary": "U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Weekly Immigration News: Court Order Blcoks September Deadline \u2014 and USCIS Postpones New Form I-765",
+      "url": "https://citizenpath.com/immigration-news/",
+      "source": "rss:citizenpath",
+      "source_trust": "analysis",
+      "published_at": "2026-09-18T16:23:00+00:00",
+      "summary": "Stay informed with our weekly immigration news roundup covering USCIS policy changes, court rulings, and other stories affecting immigrants.\u2026 Continue Reading \u2192 The post Weekly Immigration News: Court Order Blcoks September Deadline \u2014 and USCIS Postpones New Form I-765 appeared first on CitizenPath ",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
     {
       "title": "New Report Shows Immigrants in Mecklenburg County Paid $2.6 Billion in Taxes and Held $7 Billion in Spending Power in 2024",
       "url": "https://www.americanimmigrationcouncil.org/press-release/immigrants-in-mecklenburg-county/",
@@ -146,18 +170,6 @@
         "general"
       ],
       "actionable": false
-    },
-    {
-      "title": "Weekly Immigration News: Adjustment of Status Filers Face Several Important Deadlines This Week",
-      "url": "https://citizenpath.com/immigration-news/",
-      "source": "rss:citizenpath",
-      "source_trust": "analysis",
-      "published_at": "2026-09-11T16:36:51+00:00",
-      "summary": "Stay informed with our weekly immigration news roundup covering USCIS policy changes, court rulings, and other stories affecting immigrants.\u2026 Continue Reading \u2192 The post Weekly Immigration News: Adjustment of Status Filers Face Several Important Deadlines This Week appeared first on CitizenPath .",
-      "categories": [
-        "green_card"
-      ],
-      "actionable": true
     },
     {
       "title": "USCIS Reaches H-2B Cap for First Half of FY 2027",
