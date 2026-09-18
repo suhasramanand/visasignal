@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-09-18T04:40:36.019422+00:00",
-  "count": 418,
-  "source_count": 10,
+  "generated_at": "2026-09-18T12:57:10.867851+00:00",
+  "count": 417,
+  "source_count": 9,
   "items": [
+    {
+      "title": "New Report Shows Immigrants in Mecklenburg County Paid $2.6 Billion in Taxes and Held $7 Billion in Spending Power in 2024",
+      "url": "https://www.americanimmigrationcouncil.org/press-release/immigrants-in-mecklenburg-county/",
+      "source": "rss:american_immigration_council",
+      "source_trust": "analysis",
+      "published_at": "2026-09-18T10:00:00+00:00",
+      "summary": "Mecklenburg County,\u00a0NC, September 18, 2026\u00a0\u2013\u00a0A new report, Immigrants in Mecklenburg County released today by the American Immigration Council\u2014in partnership with the City of Charlotte, the Charlotte International Cabinet, and International House\u2014underscores the crucial role immigrants play in the r",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "WR Immigration News Digest",
       "url": "https://wolfsdorf.com/wr-immigration-news-digest-20260917/",
@@ -964,18 +976,6 @@
       "actionable": false
     },
     {
-      "title": "In Blow to Asylum Rights, Supreme Court Allows Trump Administration to Block Asylum Seekers at Border",
-      "url": "https://www.americanimmigrationcouncil.org/press-release/supreme-court-allows-trump-to-block-asylum-seekers/",
-      "source": "rss:american_immigration_council",
-      "source_trust": "analysis",
-      "published_at": "2026-06-25T15:58:09+00:00",
-      "summary": "The Supreme Court ruled today that the Trump administration could turn back asylum seekers at ports of entry along the southern border, and that doing so does not violate federal immigration law",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
       "title": "Naturalization Application Fee Adjustments",
       "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12542/naturalization-application-fee-adjustments",
       "source": "federal_register:dhs_rules",
@@ -1066,18 +1066,6 @@
       "source_trust": "official",
       "published_at": "2026-06-01T19:30:07+00:00",
       "summary": "U.S",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Extension of Lebanon Designation for Temporary Protected Status",
-      "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10704/extension-of-lebanon-designation-for-temporary-protected-status",
-      "source": "federal_register:uscis_rules",
-      "source_trust": "official",
-      "published_at": "2026-05-29",
-      "summary": "The designation of Lebanon for Temporary Protected Status (TPS), which was set to expire on May 27, 2026, is automatically extended to November 27, 2026",
       "categories": [
         "general"
       ],
