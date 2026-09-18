@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T12:57:10.867851+00:00",
-  "count": 417,
+  "generated_at": "2026-09-18T19:01:35.240487+00:00",
+  "count": 412,
   "source_count": 9,
   "items": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "title": "DHS Oversight Agency Issues Scathing Report of Conditions at \u2018Alligator Alcatraz\u2019",
-      "url": "https://www.americanimmigrationcouncil.org/uncategorized/alligator-alcatraz-dhs-oversight-report/",
+      "url": "https://www.americanimmigrationcouncil.org/enforcement/immigration-detention/alligator-alcatraz-dhs-oversight-report/",
       "source": "rss:american_immigration_council",
       "source_trust": "analysis",
       "published_at": "2026-09-17T19:09:42+00:00",
@@ -4550,66 +4550,6 @@
       "source_trust": "official",
       "published_at": "2023-09-22",
       "summary": "The Department of State is seeking Office of Management and Budget (OMB) approval for the information collection described below",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Secretary Mayorkas Announces Extension and Redesignation of Afghanistan for Temporary Protected Status",
-      "url": "https://www.uscis.gov/newsroom/news-releases/secretary-mayorkas-announces-extension-and-redesignation-of-afghanistan-for-temporary-protected",
-      "source": "rss:uscis_news",
-      "source_trust": "official",
-      "published_at": "2023-09-21T21:07:44+00:00",
-      "summary": "Secretary of Homeland Security Alejandro N",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Important Update on Deferred Action for Childhood Arrivals",
-      "url": "https://www.uscis.gov/newsroom/alerts/important-update-on-deferred-action-for-childhood-arrivals",
-      "source": "rss:uscis_alerts",
-      "source_trust": "official",
-      "published_at": "2023-09-18T16:06:28+00:00",
-      "summary": "On Sept",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "DHS Issues Proposed Rule to Modernize H-2 Temporary Visa Programs and Strengthen Worker Protections",
-      "url": "https://www.uscis.gov/newsroom/news-releases/dhs-issues-proposed-rule-to-modernize-h-2-temporary-visa-programs-and-strengthen-worker-protections",
-      "source": "rss:uscis_news",
-      "source_trust": "official",
-      "published_at": "2023-09-18T14:18:01+00:00",
-      "summary": "Today, the Department of Homeland Security (DHS) took steps to strengthen protections for temporary workers through the H-2A temporary agricultural and the H-2B temporary nonagricultural worker programs (H-2 programs).",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "USCIS Clarifies Guidance for EB-1 Eligibility Criteria",
-      "url": "https://www.uscis.gov/newsroom/alerts/uscis-clarifies-guidance-for-eb-1-eligibility-criteria",
-      "source": "rss:uscis_alerts",
-      "source_trust": "official",
-      "published_at": "2023-09-12T13:35:40+00:00",
-      "summary": "U.S",
-      "categories": [
-        "green_card"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Affirmative Asylum Applicants Must Provide Interpreters Starting Sept. 13",
-      "url": "https://www.uscis.gov/newsroom/alerts/affirmative-asylum-applicants-must-provide-interpreters-starting-sept-13",
-      "source": "rss:uscis_alerts",
-      "source_trust": "official",
-      "published_at": "2023-09-11T18:40:14+00:00",
-      "summary": "U.S",
       "categories": [
         "general"
       ],
