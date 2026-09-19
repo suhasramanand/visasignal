@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-09-18T22:34:01.940706+00:00",
+  "generated_at": "2026-09-19T04:35:41.016233+00:00",
   "count": 413,
   "source_count": 9,
   "items": [
+    {
+      "title": "NewsFlash! H1B $100K Payment: Back Again?",
+      "url": "https://www.murthy.com/2026/09/18/newsflash-h1b-100k-payment-back-again/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-09-18T23:59:58+00:00",
+      "summary": "The White House has issued a new proclamation purporting to extend the September 2025 H1B entry restrictions for another year, again requiring a $100,000 payment for certain H1B workers seeking entry",
+      "categories": [
+        "h1b",
+        "travel_entry"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "NewsFlash! H1B Update: New Executive Order Targets Employer Layoffs",
+      "url": "https://www.murthy.com/2026/09/18/newsflash-h1b-update-new-executive-order-targets-employer-layoffs/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-09-18T23:58:59+00:00",
+      "summary": "A new Executive Order directs DOL, DHS, and DOS to consider an H1B employer\u2019s recent or planned layoffs of similarly situated U.S",
+      "categories": [
+        "h1b"
+      ],
+      "actionable": false
+    },
     {
       "title": "Five Defendants Charged with Defrauding and Exploiting H-2A Visa Program to Smuggle Aliens into the United States",
       "url": "https://www.uscis.gov/newsroom/news-releases/five-defendants-charged-with-defrauding-and-exploiting-h-2a-visa-program-to-smuggle-aliens-into-the",
@@ -338,30 +363,6 @@
         "general"
       ],
       "actionable": false
-    },
-    {
-      "title": "Possible Changes to H-4 Spouse Employment Authorization",
-      "url": "https://www.murthy.com/2026/09/01/possible-changes-to-h-4-spouse-employment-authorization/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-09-01T17:41:40+00:00",
-      "summary": "The Department of Homeland Security (DHS) is considering a proposal that could significantly affect certain H-4 dependent spouses of H1B nonimmigrant workers",
-      "categories": [
-        "h1b"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "I am currently in F-1 status with an I-94 marked D/S. Under the new F-1 fixed-period-of-admission rule scheduled to take effect on September 15, 2026, will I automatically receive a new I-94 expiration date on that date?",
-      "url": "https://www.murthy.com/2026/09/01/i-am-currently-in-f-1-status-with-an-i-94-marked-d-s-under-the-new-f-1-fixed-period-of-admission-rule-scheduled-to-take-effect-on-september-15-2026-will-i-automatically-receive-a-new-i-94-expiratio/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-09-01T15:22:38+00:00",
-      "summary": "Answer Generally, no",
-      "categories": [
-        "f1"
-      ],
-      "actionable": true
     },
     {
       "title": "I-751 Interview: When USCIS Requires One and When It\u2019s Waived",
