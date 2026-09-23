@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T19:40:11.569029+00:00",
-  "count": 415,
+  "generated_at": "2026-09-23T22:56:28.071537+00:00",
+  "count": 416,
   "source_count": 9,
   "items": [
     {
@@ -10,6 +10,18 @@
       "source_trust": "analysis",
       "published_at": "2026-09-23T19:36:41+00:00",
       "summary": "The U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Man Charged with Naturalization Fraud; Three Others Face Denaturalization",
+      "url": "https://www.uscis.gov/newsroom/news-releases/man-charged-with-naturalization-fraud-three-others-face-denaturalization",
+      "source": "rss:uscis_news",
+      "source_trust": "official",
+      "published_at": "2026-09-23T19:04:35+00:00",
+      "summary": "A federal grand jury in Charlotte returned a criminal indictment charging Sha Bahadur Ghaley, 42,\u00a0a naturalized citizen from Bhutan, with naturalization fraud.",
       "categories": [
         "general"
       ],
