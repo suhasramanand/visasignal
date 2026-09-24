@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-09-24T19:58:48.021458+00:00",
+  "generated_at": "2026-09-24T23:11:51.189716+00:00",
   "count": 416,
   "source_count": 9,
   "items": [
+    {
+      "title": "WR Immigration News Digest",
+      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20260924/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-09-24T21:20:33+00:00",
+      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "NewsFlash! State Department Announces New Visa Restrictions Related to Birth Tourism",
+      "url": "https://www.murthy.com/2026/09/24/newsflash-state-department-announces-new-visa-restrictions-related-to-birth-tourism/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-09-24T20:14:23+00:00",
+      "summary": "On September 23, 2026, the U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "Fifth Circuit Hears Major Case Over Right to Challenge Immigration Detention",
       "url": "https://www.americanimmigrationcouncil.org/press-release/fifth-circuit-hears-major-case-over-right-to-challenge-immigration-detention/",
@@ -186,18 +210,6 @@
       "actionable": false
     },
     {
-      "title": "WR Immigration News Digest",
-      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20260917/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-09-17T19:46:24+00:00",
-      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
       "title": "DHS Oversight Agency Issues Scathing Report of Conditions at \u2018Alligator Alcatraz\u2019",
       "url": "https://www.americanimmigrationcouncil.org/enforcement/immigration-detention/alligator-alcatraz-dhs-oversight-report/",
       "source": "rss:american_immigration_council",
@@ -362,18 +374,6 @@
       "summary": "Your A-Number appears as USCIS# on green cards and work permits",
       "categories": [
         "green_card"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "H1B Cap-Exempt Employment: Who Qualifies and Key Considerations When Changing Employers",
-      "url": "https://www.murthy.com/2026/09/09/h1b-cap-exempt-employment-who-qualifies-and-key-considerations-when-changing-employers/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-09-09T17:21:11+00:00",
-      "summary": "For many U.S",
-      "categories": [
-        "h1b"
       ],
       "actionable": false
     },
