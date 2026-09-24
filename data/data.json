@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-09-24T13:32:16.446576+00:00",
+  "generated_at": "2026-09-24T19:58:48.021458+00:00",
   "count": 416,
   "source_count": 9,
   "items": [
+    {
+      "title": "Fifth Circuit Hears Major Case Over Right to Challenge Immigration Detention",
+      "url": "https://www.americanimmigrationcouncil.org/press-release/fifth-circuit-hears-major-case-over-right-to-challenge-immigration-detention/",
+      "source": "rss:american_immigration_council",
+      "source_trust": "analysis",
+      "published_at": "2026-09-24T17:00:37+00:00",
+      "summary": "Case will determine whether longtime U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Your Immigration File: What USCIS Has on You and What It Doesn\u2019t",
+      "url": "https://citizenpath.com/get-copy-immigration-file/",
+      "source": "rss:citizenpath",
+      "source_trust": "analysis",
+      "published_at": "2026-09-24T13:00:00+00:00",
+      "summary": "Your immigration file holds everything you filed with USCIS, but not copies of your certificates",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "Eleventh Circuit Holds That an EOIR Disciplinary Complaint Can Satisfy Lozada",
       "url": "https://www.murthy.com/2026/09/23/eleventh-circuit-holds-that-an-eoir-disciplinary-complaint-can-satisfy-lozada/",
@@ -486,18 +510,6 @@
       "actionable": false
     },
     {
-      "title": "Civil Records for Immigration: Documents Types and Where to Find Them",
-      "url": "https://citizenpath.com/civil-records-immigration/",
-      "source": "rss:citizenpath",
-      "source_trust": "analysis",
-      "published_at": "2026-08-25T13:00:00+00:00",
-      "summary": "Here's where to find civil records needed for your immigration application and when impossible, obtain a certificate of non-existence.\u2026 Continue Reading \u2192 The post Civil Records for Immigration: Documents Types and Where to Find Them appeared first on CitizenPath .",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
       "title": "Fee for Certain H-1B Petitions",
       "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17324/fee-for-certain-h-1b-petitions",
       "source": "federal_register:dhs_rules",
@@ -948,18 +960,6 @@
       "source_trust": "official",
       "published_at": "2026-07-10T14:50:32+00:00",
       "summary": "U.S",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Federal Court Delivers Major Blow to Trump Detention Policy of Jailing Immigrants With No Hearing, No Explanation",
-      "url": "https://www.americanimmigrationcouncil.org/press-release/federal-court-blocks-trump-immigration-detention-policy-fifth-circuit/",
-      "source": "rss:american_immigration_council",
-      "source_trust": "analysis",
-      "published_at": "2026-07-03T12:16:29+00:00",
-      "summary": "WASHINGTON, D.C., July 3, 2026 \u2014 On July 2, the U.S",
       "categories": [
         "general"
       ],
