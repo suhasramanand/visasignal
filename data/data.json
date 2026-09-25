@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-09-25T20:00:58.282319+00:00",
-  "count": 413,
+  "generated_at": "2026-09-25T23:17:38.721988+00:00",
+  "count": 414,
   "source_count": 9,
   "items": [
+    {
+      "title": "Aliens Charged with Illegally Voting and Making False Statements While Applying for US Citizenship",
+      "url": "https://www.uscis.gov/newsroom/news-releases/aliens-charged-with-illegally-voting-and-making-false-statements-while-applying-for-us-citizenship",
+      "source": "rss:uscis_news",
+      "source_trust": "official",
+      "published_at": "2026-09-25T20:19:40+00:00",
+      "summary": "An Essex County man and a Middlesex County woman, both aliens, were charged with illegally voting in a federal election and making false statements while applying for U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "Romanian Alien Admits Conspiring to Commit Marriage Fraud",
       "url": "https://www.uscis.gov/newsroom/news-releases/romanian-alien-admits-conspiring-to-commit-marriage-fraud",
