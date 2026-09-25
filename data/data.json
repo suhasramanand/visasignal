@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-09-25T13:44:46.537199+00:00",
-  "count": 416,
+  "generated_at": "2026-09-25T20:00:58.282319+00:00",
+  "count": 413,
   "source_count": 9,
   "items": [
+    {
+      "title": "Romanian Alien Admits Conspiring to Commit Marriage Fraud",
+      "url": "https://www.uscis.gov/newsroom/news-releases/romanian-alien-admits-conspiring-to-commit-marriage-fraud",
+      "source": "rss:uscis_news",
+      "source_trust": "official",
+      "published_at": "2026-09-25T17:22:11+00:00",
+      "summary": "A Romanian alien admitted to conspiring with an American citizen to enter into a sham marriage so that she could obtain U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Weekly Immigration News: Medicaid Cutoff Arrives Oct. 1 for Many Refugees, Asylees and Other Lawful Immigrants",
+      "url": "https://citizenpath.com/immigration-news/",
+      "source": "rss:citizenpath",
+      "source_trust": "analysis",
+      "published_at": "2026-09-25T15:43:32+00:00",
+      "summary": "Stay informed with our weekly immigration news roundup covering USCIS policy changes, court rulings, and other stories affecting immigrants.\u2026 Continue Reading \u2192 The post Weekly Immigration News: Medicaid Cutoff Arrives Oct",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "WR Immigration News Digest",
       "url": "https://wolfsdorf.com/wr-immigration-news-digest-20260924/",
@@ -184,18 +208,6 @@
         "general"
       ],
       "actionable": false
-    },
-    {
-      "title": "Weekly Immigration News: Court Order Blocks September Deadline \u2014 and USCIS Postpones New Form I-765",
-      "url": "https://citizenpath.com/immigration-news/",
-      "source": "rss:citizenpath",
-      "source_trust": "analysis",
-      "published_at": "2026-09-18T16:23:00+00:00",
-      "summary": "Stay informed with our weekly immigration news roundup covering USCIS policy changes, court rulings, and other stories affecting immigrants.\u2026 Continue Reading \u2192 The post Weekly Immigration News: Court Order Blocks September Deadline \u2014 and USCIS Postpones New Form I-765 appeared first on CitizenPath ",
-      "categories": [
-        "general"
-      ],
-      "actionable": true
     },
     {
       "title": "New Report Shows Immigrants in Mecklenburg County Paid $2.6 Billion in Taxes and Held $7 Billion in Spending Power in 2024",
@@ -4540,54 +4552,6 @@
       "source_trust": "official",
       "published_at": "2023-10-06T15:43:53+00:00",
       "summary": "Secretary of Homeland Security Alejandro N",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "DHS Previews Federal Register Notice Extending and Separately Redesignating Venezuela for Temporary Protected Status",
-      "url": "https://www.uscis.gov/newsroom/news-releases/dhs-previews-federal-register-notice-extending-and-separately-redesignating-venezuela-for-temporary",
-      "source": "rss:uscis_news",
-      "source_trust": "official",
-      "published_at": "2023-09-29T20:45:28+00:00",
-      "summary": "Today, the Department of Homeland Security is previewing a\u00a0Federal Register\u00a0notice for an 18-month extension of Venezuela\u2019s 2021 Temporary Protected Status (TPS) designation and a separate redesignation of Venezuela for TPS",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "USCIS Continues Fee Exemptions and Expedited Processing for Afghan Nationals",
-      "url": "https://www.uscis.gov/newsroom/alerts/uscis-continues-fee-exemptions-and-expedited-processing-for-afghan-nationals",
-      "source": "rss:uscis_alerts",
-      "source_trust": "official",
-      "published_at": "2023-09-29T18:24:44+00:00",
-      "summary": "Today, U.S",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "USCIS Increases Employment Authorization Document Validity Period for Certain Categories",
-      "url": "https://www.uscis.gov/newsroom/alerts/uscis-increases-employment-authorization-document-validity-period-for-certain-categories",
-      "source": "rss:uscis_alerts",
-      "source_trust": "official",
-      "published_at": "2023-09-27T18:13:04+00:00",
-      "summary": "We are updating guidance in the Policy Manual to increase the maximum validity period to 5 years for initial and renewal Employment Authorization Documents (EADs) for certain noncitizens who are employment authorized incident to status or circumstance, including those admitted as refugees, paroled a",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "USCIS Exempts Biometric Services Fee for all Form I-539 Applicants",
-      "url": "https://www.uscis.gov/newsroom/alerts/uscis-exempts-biometric-services-fee-for-all-form-i-539-applicants",
-      "source": "rss:uscis_alerts",
-      "source_trust": "official",
-      "published_at": "2023-09-25T16:46:12+00:00",
-      "summary": "U.S",
       "categories": [
         "general"
       ],
