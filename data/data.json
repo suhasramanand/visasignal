@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-09-26T04:54:48.945106+00:00",
-  "count": 414,
-  "source_count": 9,
+  "generated_at": "2026-09-26T13:03:17.929715+00:00",
+  "count": 415,
+  "source_count": 10,
   "items": [
+    {
+      "title": "Extension, Without Change, of a Currently Approved Collection: Biographic Information (Registration)",
+      "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19756/extension-without-change-of-a-currently-approved-collection-biographic-information-registration",
+      "source": "federal_register:uscis_rules",
+      "source_trust": "official",
+      "published_at": "2026-09-28",
+      "summary": "The Department of Homeland Security (DHS), U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "Aliens Charged with Illegally Voting and Making False Statements While Applying for US Citizenship",
       "url": "https://www.uscis.gov/newsroom/news-releases/aliens-charged-with-illegally-voting-and-making-false-statements-while-applying-for-us-citizenship",
