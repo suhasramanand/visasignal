@@ -80,42 +80,42 @@
   "source_url": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-october-2026.html",
   "month": "October 2026",
   "data_source": "pd-tracker (GitHub, family-sponsored not covered, may lag ~1 month)",
-  "fetched_at": "2026-09-29T18:04:13.341282+00:00",
+  "fetched_at": "2026-09-29T23:41:44.287991+00:00",
   "movement": {
     "final_action": {
       "employment_based": {
         "EB-1": {
           "ROW": null,
           "CHINA": 0,
-          "INDIA": 4,
+          "INDIA": 0,
           "MEXICO": null,
           "PHILIPPINES": null
         },
         "EB-2": {
-          "ROW": null,
-          "CHINA": 1,
-          "INDIA": null,
-          "MEXICO": null,
-          "PHILIPPINES": null
-        },
-        "EB-3": {
-          "ROW": -4,
+          "ROW": 0,
           "CHINA": 0,
           "INDIA": 0,
-          "MEXICO": -4,
+          "MEXICO": 0,
+          "PHILIPPINES": 0
+        },
+        "EB-3": {
+          "ROW": 0,
+          "CHINA": 0,
+          "INDIA": 0,
+          "MEXICO": 0,
           "PHILIPPINES": 0
         },
         "EB-4": {
-          "ROW": 2,
-          "CHINA": 2,
-          "INDIA": 2,
-          "MEXICO": 2,
-          "PHILIPPINES": 2
+          "ROW": 0,
+          "CHINA": 0,
+          "INDIA": 0,
+          "MEXICO": 0,
+          "PHILIPPINES": 0
         },
         "EB-5": {
           "ROW": null,
           "CHINA": 0,
-          "INDIA": null,
+          "INDIA": 0,
           "MEXICO": null,
           "PHILIPPINES": null
         }
@@ -125,35 +125,35 @@
       "employment_based": {
         "EB-1": {
           "ROW": null,
-          "CHINA": 7,
-          "INDIA": 7,
+          "CHINA": 0,
+          "INDIA": 0,
           "MEXICO": null,
           "PHILIPPINES": null
         },
         "EB-2": {
-          "ROW": null,
-          "CHINA": 12,
+          "ROW": 0,
+          "CHINA": 0,
           "INDIA": 0,
-          "MEXICO": null,
-          "PHILIPPINES": null
+          "MEXICO": 0,
+          "PHILIPPINES": 0
         },
         "EB-3": {
-          "ROW": null,
-          "CHINA": 27,
+          "ROW": 0,
+          "CHINA": 0,
           "INDIA": 0,
-          "MEXICO": null,
+          "MEXICO": 0,
           "PHILIPPINES": 0
         },
         "EB-4": {
-          "ROW": 24,
-          "CHINA": 24,
-          "INDIA": 24,
-          "MEXICO": 24,
-          "PHILIPPINES": 24
+          "ROW": 0,
+          "CHINA": 0,
+          "INDIA": 0,
+          "MEXICO": 0,
+          "PHILIPPINES": 0
         },
         "EB-5": {
           "ROW": null,
-          "CHINA": 48,
+          "CHINA": 0,
           "INDIA": 0,
           "MEXICO": null,
           "PHILIPPINES": null
