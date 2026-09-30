@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-09-30T14:54:23.770747+00:00",
-  "count": 416,
+  "generated_at": "2026-09-30T20:48:23.383064+00:00",
+  "count": 417,
   "source_count": 10,
   "items": [
+    {
+      "title": "Automatic Visa Revalidation May Permit Limited Reentry from Canada or Mexico",
+      "url": "https://www.murthy.com/2018/03/26/contiguous-territory-rule-permits-reentry-from-canada-or-mexico-2/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-09-30T17:30:57+00:00",
+      "summary": "International travel can present challenges for foreign nationals whose visa stamps have expired, even when they remain in valid nonimmigrant status in the United States",
+      "categories": [
+        "travel_entry"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "USCIS Announces FY 2027 Inflation Increase for Certain Immigration-Related Fees",
+      "url": "https://www.uscis.gov/newsroom/alerts/uscis-announces-fy-2027-inflation-increase-for-certain-immigration-related-fees",
+      "source": "rss:uscis_alerts",
+      "source_trust": "official",
+      "published_at": "2026-09-30T13:18:11+00:00",
+      "summary": "U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "USCIS Status Alerts: Read the Notice",
       "url": "https://www.murthy.com/2026/09/30/uscis-status-alerts-read-the-notice/",
@@ -326,18 +350,6 @@
       "categories": [
         "h1b",
         "travel_entry"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "NewsFlash! H1B Update: New Executive Order Targets Employer Layoffs",
-      "url": "https://www.murthy.com/2026/09/18/newsflash-h1b-update-new-executive-order-targets-employer-layoffs/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-09-18T23:58:59+00:00",
-      "summary": "A new Executive Order directs DOL, DHS, and DOS to consider an H1B employer\u2019s recent or planned layoffs of similarly situated U.S",
-      "categories": [
-        "h1b"
       ],
       "actionable": false
     },
