@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-09-30T05:29:45.132435+00:00",
-  "count": 417,
+  "generated_at": "2026-09-30T14:54:23.770747+00:00",
+  "count": 416,
   "source_count": 10,
   "items": [
+    {
+      "title": "USCIS Status Alerts: Read the Notice",
+      "url": "https://www.murthy.com/2026/09/30/uscis-status-alerts-read-the-notice/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-09-30T12:45:39+00:00",
+      "summary": "Old EAD or I-485J marked \u201cadministratively closed\u201d? It appears USCIS may be closing out older filings in its system which is prompting an unusually high number of administrative closure notices",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule",
+      "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20016/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2026-09-30",
+      "summary": "This final rule adjusts the Employment-Based Immigration, Fifth Preference (EB-5) immigration benefit request fees charged by U.S",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": true
+    },
     {
       "title": "I am applying for TN status to work for a U.S. employer. Am I allowed to pay the government filing fees and attorney fees myself?",
       "url": "https://www.murthy.com/2026/09/29/i-am-applying-for-tn-status-to-work-for-a-u-s-employer-am-i-allowed-to-pay-the-government-filing-fees-and-attorney-fees-myself/",
@@ -362,18 +386,6 @@
       "summary": "Review real immigration lawyer costs for various immigration journeys and see other alternatives for preparing your USCIS application.\u2026 Continue Reading \u2192 The post How Much an Immigration Lawyer Costs in 2026 appeared first on CitizenPath .",
       "categories": [
         "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "CSPA Protection for Employment-Based Derivative Children with Pending Adjustment Applications",
-      "url": "https://www.murthy.com/2026/09/16/cspa-protection-for-employment-based-derivative-children-with-pending-adjustment-applications/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-09-16T13:55:58+00:00",
-      "summary": "A derivative child in an employment-based immigration case does not necessarily lose eligibility for a green card upon reaching the biological age of 21",
-      "categories": [
-        "green_card"
       ],
       "actionable": false
     },
@@ -1900,18 +1912,6 @@
         "general"
       ],
       "actionable": true
-    },
-    {
-      "title": "U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule",
-      "url": "https://www.federalregister.gov/documents/2025/10/23/2025-19642/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee",
-      "source": "federal_register:dhs_rules",
-      "source_trust": "official",
-      "published_at": "2025-10-23",
-      "summary": "The Department of Homeland Security (DHS) proposes to adjust Employment-Based Immigration, Fifth Preference (EB-5) immigration benefit request fees charged by U.S",
-      "categories": [
-        "green_card"
-      ],
-      "actionable": false
     },
     {
       "title": "Tibetan Man Sentenced to 27 Months in Prison for Filing Fraudulent Asylum Claims for Profit",
@@ -4864,18 +4864,6 @@
       "source_trust": "official",
       "published_at": "2021-02-05",
       "summary": "The Department of State is seeking Office of Management and Budget (OMB) approval for the information collection described below",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Procedures for Asylum and Withholding of Removal; Credible Fear and Reasonable Fear Review",
-      "url": "https://www.federalregister.gov/documents/2020/12/11/2020-26875/procedures-for-asylum-and-withholding-of-removal-credible-fear-and-reasonable-fear-review",
-      "source": "federal_register:dhs_rules",
-      "source_trust": "official",
-      "published_at": "2020-12-11",
-      "summary": "On June 15, 2020, the Department of Homeland Security (\"DHS\") and the Department of Justice (\"DOJ\") (collectively \"the Departments\") published a notice of proposed rulemaking (\"NPRM\" or \"proposed rule\") that would amend the regulations governing credible fear determinations",
       "categories": [
         "general"
       ],
