@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-01T15:26:07.951625+00:00",
-  "count": 417,
+  "generated_at": "2026-10-01T21:01:02.959169+00:00",
+  "count": 418,
   "source_count": 10,
   "items": [
+    {
+      "title": "H1B $100K Fee: Courts Align",
+      "url": "https://www.murthy.com/2026/10/01/h-1b-100k-fee-courts-align/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-10-01T19:59:58+00:00",
+      "summary": "A Massachusetts court vacated the fee policies in June 2026",
+      "categories": [
+        "h1b"
+      ],
+      "actionable": false
+    },
     {
       "title": "How the Asylum Process Works: Affirmative vs. Defensive Cases",
       "url": "https://citizenpath.com/asylum-process-how-it-works/",
@@ -208,18 +220,6 @@
       "actionable": false
     },
     {
-      "title": "WR Immigration News Digest",
-      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20260924/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-09-24T21:20:33+00:00",
-      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
       "title": "NewsFlash! State Department Announces New Visa Restrictions Related to Birth Tourism",
       "url": "https://www.murthy.com/2026/09/24/newsflash-state-department-announces-new-visa-restrictions-related-to-birth-tourism/",
       "source": "rss:murthy_law",
@@ -353,19 +353,6 @@
       "actionable": false
     },
     {
-      "title": "NewsFlash! H1B $100K Payment: Back Again?",
-      "url": "https://www.murthy.com/2026/09/18/newsflash-h1b-100k-payment-back-again/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-09-18T23:59:58+00:00",
-      "summary": "The White House has issued a new proclamation purporting to extend the September 2025 H1B entry restrictions for another year, again requiring a $100,000 payment for certain H1B workers seeking entry",
-      "categories": [
-        "h1b",
-        "travel_entry"
-      ],
-      "actionable": false
-    },
-    {
       "title": "Five Defendants Charged with Defrauding and Exploiting H-2A Visa Program to Smuggle Aliens into the United States",
       "url": "https://www.uscis.gov/newsroom/news-releases/five-defendants-charged-with-defrauding-and-exploiting-h-2a-visa-program-to-smuggle-aliens-into-the",
       "source": "rss:uscis_news",
@@ -384,6 +371,18 @@
       "source_trust": "analysis",
       "published_at": "2026-09-18T10:00:00+00:00",
       "summary": "Mecklenburg County,\u00a0NC, September 18, 2026\u00a0\u2013\u00a0A new report, Immigrants in Mecklenburg County released today by the American Immigration Council\u2014in partnership with the City of Charlotte, the Charlotte International Cabinet, and International House\u2014underscores the crucial role immigrants play in the r",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "WR Immigration News Digest",
+      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20260917/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-09-17T19:46:24+00:00",
+      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
       "categories": [
         "general"
       ],
@@ -902,6 +901,18 @@
       "summary": "The Department of Homeland Security\u2019s (DHS) new F-1 regulations represent one of the most significant changes to international student compliance in decades",
       "categories": [
         "f1"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Global Immigration Recap: July 2026",
+      "url": "https://wolfsdorf.com/global-immigration-recap-july-2026/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-08-03T16:57:56+00:00",
+      "summary": "Our March global immigration recap includes the latest on the EU\u2019s implementation of the digital Entry/Exit System (EES), the United Kingdom\u2019s updated guidance for sponsors of foreign workers, Australia\u2019s skilled visa nomination income thresholds, Singapore\u2019s new AI & Tech ONE Pass, and more",
+      "categories": [
+        "general"
       ],
       "actionable": false
     },
