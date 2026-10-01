@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-01T05:48:13.009474+00:00",
+  "generated_at": "2026-10-01T15:26:07.951625+00:00",
   "count": 417,
   "source_count": 10,
   "items": [
+    {
+      "title": "How the Asylum Process Works: Affirmative vs. Defensive Cases",
+      "url": "https://citizenpath.com/asylum-process-how-it-works/",
+      "source": "rss:citizenpath",
+      "source_trust": "analysis",
+      "published_at": "2026-10-01T13:00:00+00:00",
+      "summary": "The asylum process runs two ways: through USCIS or immigration court",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "Automatic Visa Revalidation May Permit Limited Reentry from Canada or Mexico",
       "url": "https://www.murthy.com/2018/03/26/contiguous-territory-rule-permits-reentry-from-canada-or-mexico-2/",
@@ -564,18 +576,6 @@
       "source_trust": "analysis",
       "published_at": "2026-09-02T21:54:56+00:00",
       "summary": "Our March global immigration recap includes the latest on the EU\u2019s implementation of the digital Entry/Exit System (EES), the United Kingdom\u2019s updated guidance for sponsors of foreign workers, Australia\u2019s skilled visa nomination income thresholds, Singapore\u2019s new AI & Tech ONE Pass, and more",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "I-751 Interview: When USCIS Requires One and When It\u2019s Waived",
-      "url": "https://citizenpath.com/avoiding-i-751-interview/",
-      "source": "rss:citizenpath",
-      "source_trust": "analysis",
-      "published_at": "2026-09-01T13:00:00+00:00",
-      "summary": "USCIS may waive your I-751 interview",
       "categories": [
         "general"
       ],
