@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-10-02T14:43:28.155275+00:00",
-  "count": 416,
+  "generated_at": "2026-10-02T20:42:53.786535+00:00",
+  "count": 417,
   "source_count": 10,
   "items": [
+    {
+      "title": "Weekly Immigration News: Spouses of Green Card Holders Are Now Weeks From the Front of the Line",
+      "url": "https://citizenpath.com/immigration-news/",
+      "source": "rss:citizenpath",
+      "source_trust": "analysis",
+      "published_at": "2026-10-02T15:56:15+00:00",
+      "summary": "Stay informed with our weekly immigration news roundup covering USCIS policy changes, court rulings, and other stories affecting immigrants.\u2026 Continue Reading \u2192 The post Weekly Immigration News: Spouses of Green Card Holders Are Now Weeks From the Front of the Line appeared first on CitizenPath .",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Federal Grand Jury Indicts Ten Aliens for Voter Fraud in Minnesota Elections",
+      "url": "https://www.uscis.gov/newsroom/news-releases/federal-grand-jury-indicts-ten-aliens-for-voter-fraud-in-minnesota-elections",
+      "source": "rss:uscis_news",
+      "source_trust": "official",
+      "published_at": "2026-10-02T15:19:35+00:00",
+      "summary": "Defendants illegally voted in the November 2022 and 2024 general elections and the August 2026 primary election",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "WR Immigration News Digest",
       "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261001/",
@@ -214,18 +238,6 @@
       "source_trust": "official",
       "published_at": "2026-09-25T17:22:11+00:00",
       "summary": "A Romanian alien admitted to conspiring with an American citizen to enter into a sham marriage so that she could obtain U.S",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Weekly Immigration News: Medicaid Cutoff Arrives Oct. 1 for Many Refugees, Asylees and Other Lawful Immigrants",
-      "url": "https://citizenpath.com/immigration-news/",
-      "source": "rss:citizenpath",
-      "source_trust": "analysis",
-      "published_at": "2026-09-25T15:43:32+00:00",
-      "summary": "Stay informed with our weekly immigration news roundup covering USCIS policy changes, court rulings, and other stories affecting immigrants.\u2026 Continue Reading \u2192 The post Weekly Immigration News: Medicaid Cutoff Arrives Oct",
       "categories": [
         "general"
       ],
