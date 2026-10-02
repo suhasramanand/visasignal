@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-01T21:01:02.959169+00:00",
-  "count": 418,
+  "generated_at": "2026-10-02T05:33:26.012538+00:00",
+  "count": 416,
   "source_count": 10,
   "items": [
+    {
+      "title": "WR Immigration News Digest",
+      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261001/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-10-01T21:27:10+00:00",
+      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "H1B $100K Fee: Courts Align",
       "url": "https://www.murthy.com/2026/10/01/h-1b-100k-fee-courts-align/",
@@ -371,18 +383,6 @@
       "source_trust": "analysis",
       "published_at": "2026-09-18T10:00:00+00:00",
       "summary": "Mecklenburg County,\u00a0NC, September 18, 2026\u00a0\u2013\u00a0A new report, Immigrants in Mecklenburg County released today by the American Immigration Council\u2014in partnership with the City of Charlotte, the Charlotte International Cabinet, and International House\u2014underscores the crucial role immigrants play in the r",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "WR Immigration News Digest",
-      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20260917/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-09-17T19:46:24+00:00",
-      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
       "categories": [
         "general"
       ],
@@ -887,30 +887,6 @@
       "source_trust": "official",
       "published_at": "2026-08-05T18:41:49+00:00",
       "summary": "U.S",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "5 Things Every Employer Needs to Know About the New F-1 D/S Rule",
-      "url": "https://wolfsdorf.com/5-things-every-employer-needs-to-know-about-the-new-f-1-d-s-rule/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-08-04T23:13:20+00:00",
-      "summary": "The Department of Homeland Security\u2019s (DHS) new F-1 regulations represent one of the most significant changes to international student compliance in decades",
-      "categories": [
-        "f1"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Global Immigration Recap: July 2026",
-      "url": "https://wolfsdorf.com/global-immigration-recap-july-2026/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-08-03T16:57:56+00:00",
-      "summary": "Our March global immigration recap includes the latest on the EU\u2019s implementation of the digital Entry/Exit System (EES), the United Kingdom\u2019s updated guidance for sponsors of foreign workers, Australia\u2019s skilled visa nomination income thresholds, Singapore\u2019s new AI & Tech ONE Pass, and more",
       "categories": [
         "general"
       ],
