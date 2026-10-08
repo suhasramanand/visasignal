@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-10-08T15:34:10.620835+00:00",
+  "generated_at": "2026-10-08T21:18:09.104419+00:00",
   "count": 418,
   "source_count": 10,
   "items": [
+    {
+      "title": "DOL Announces PERM Suspensions for Microsoft, Adobe, and Major IT Firms",
+      "url": "https://wolfsdorf.com/dol-announces-perm-suspensions-for-microsoft-adobe-and-major-it-firms/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-10-08T20:53:45+00:00",
+      "summary": "The Department of Labor (DOL) has announced that it will stop accepting new PERM applications and suspend processing of pending\u00a0PERM\u00a0applications involving Microsoft, Adobe, Cognizant, Infosys, Tata, Wipro, HCL, and Capgemini.\u00a0 What the suspension covers PERM is the labor certification process requi",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
+    {
+      "title": "PERM Suspensions: White House News Conference",
+      "url": "https://www.murthy.com/2026/10/08/perm-suspensions-white-house-news-conference/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-10-08T18:37:57+00:00",
+      "summary": "At an Oct",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "WR Immigration News Digest",
+      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261008/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-10-08T17:24:47+00:00",
+      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "How to Get Married Online and Qualify for a Green Card",
       "url": "https://citizenpath.com/web-wedding-immigration-2/",
@@ -160,18 +196,6 @@
       "actionable": false
     },
     {
-      "title": "WR Immigration News Digest",
-      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261001/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-10-01T21:27:10+00:00",
-      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
       "title": "H1B $100K Fee: Courts Align",
       "url": "https://www.murthy.com/2026/10/01/h-1b-100k-fee-courts-align/",
       "source": "rss:murthy_law",
@@ -256,6 +280,18 @@
       "actionable": false
     },
     {
+      "title": "October 2026 Visa Bulletin",
+      "url": "https://wolfsdorf.com/october-2026-visa-bulletin/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-09-29T13:52:00+00:00",
+      "summary": "Employment based priority dates and EB-5 movement | September 29, 2026\u00a0 October opens fiscal year 2027 with renewed visa numbers and substantial movement in selected employment categories",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
+    {
       "title": "October 2026 Adjustment of Status: Dates for Filing for Family and Employment Categories",
       "url": "https://www.murthy.com/2026/09/29/october-2026-adjustment-of-status-dates-for-filing-for-family-and-employment-categories/",
       "source": "rss:murthy_law",
@@ -298,18 +334,6 @@
       "source_trust": "analysis",
       "published_at": "2026-09-29T13:00:00+00:00",
       "summary": "Divorce affects your immigration status differently depending on whether your case is pending, conditional, or approved.\u2026 Continue Reading \u2192 The post How Divorce Affects Immigration Status and Your Green Card appeared first on CitizenPath .",
-      "categories": [
-        "green_card"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "October 2026 Visa Bulletin",
-      "url": "https://www.murthy.com/2026/09/29/october-2026-visa-bulletin/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-09-29T12:05:51+00:00",
-      "summary": "UPDATE: October 2026 Adjustment of Status: Dates for Filing for Family and Employment Categories The October 2026 Visa Bulletin marks the start of fiscal year 2027, with renewed visa availability for EB2 India and unreserved EB5 India, while several employment-based cutoff dates for countries other.",
       "categories": [
         "green_card"
       ],
@@ -881,18 +905,6 @@
       "actionable": false
     },
     {
-      "title": "Understanding Grace Periods Under the New DHS final rule eliminating F/J D/S",
-      "url": "https://wolfsdorf.com/understanding-grace-periods-under-the-new-dhs-final-rule-eliminating-f-j-d-s/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-08-10T16:01:27+00:00",
-      "summary": "Under\u00a0current USCIS policy, denial of an initial post-completion OPT I-765 does\u00a0not\u00a0necessarily leave the student only with the 60 days measured from the program end date",
-      "categories": [
-        "opt"
-      ],
-      "actionable": true
-    },
-    {
       "title": "USCIS To Require Electronic Filing of Forms: Strengthening National Security",
       "url": "https://www.uscis.gov/newsroom/alerts/uscis-to-require-electronic-filing-of-forms-strengthening-national-security",
       "source": "rss:uscis_alerts",
@@ -903,18 +915,6 @@
         "general"
       ],
       "actionable": true
-    },
-    {
-      "title": "IRCC Reverses Recent Canadian C20 Reciprocity Guidance",
-      "url": "https://wolfsdorf.com/ircc-reverses-recent-canadian-c20-reciprocity-guidance/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-08-07T16:50:23+00:00",
-      "summary": "IRCC has withdrawn the July 29, 2026 update to its C20 Reciprocity guidance and published a revised version dated August 6, 2026",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
     },
     {
       "title": "USCIS Identity Checks Lead to Arrest of Former Latvian Reality TV Contestant with\u00a0Violent Criminal History",
