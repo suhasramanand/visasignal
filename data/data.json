@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-10-09T06:05:07.671992+00:00",
-  "count": 418,
+  "generated_at": "2026-10-09T15:17:02.816112+00:00",
+  "count": 419,
   "source_count": 10,
   "items": [
+    {
+      "title": "Former Medical Doctor Convicted of Naturalization Fraud",
+      "url": "https://www.uscis.gov/newsroom/news-releases/former-medical-doctor-convicted-of-naturalization-fraud",
+      "source": "rss:uscis_news",
+      "source_trust": "official",
+      "published_at": "2026-10-09T14:49:01+00:00",
+      "summary": "U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Federal Probe of University J-1 Programs",
+      "url": "https://www.murthy.com/2026/10/09/federal-probe-of-university-j-1-programs/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-10-09T13:33:57+00:00",
+      "summary": "Vice President Vance says nine major universities, including Harvard, Yale, and Stanford, are under investigation over potential misuse of the J-1 exchange visitor program",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "DOL Announces PERM Suspensions for Microsoft, Adobe, and Major IT Firms",
       "url": "https://wolfsdorf.com/dol-announces-perm-suspensions-for-microsoft-adobe-and-major-it-firms/",
@@ -286,18 +310,6 @@
       "source_trust": "analysis",
       "published_at": "2026-09-29T13:52:00+00:00",
       "summary": "Employment based priority dates and EB-5 movement | September 29, 2026\u00a0 October opens fiscal year 2027 with renewed visa numbers and substantial movement in selected employment categories",
-      "categories": [
-        "green_card"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "October 2026 Adjustment of Status: Dates for Filing for Family and Employment Categories",
-      "url": "https://www.murthy.com/2026/09/29/october-2026-adjustment-of-status-dates-for-filing-for-family-and-employment-categories/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-09-29T13:31:40+00:00",
-      "summary": "UPDATE TO: October 2026 Visa Bulletin USCIS has confirmed that applicants may use the Dates for Filing charts for both family-sponsored and employment-based adjustment-of-status filings in October 2026",
       "categories": [
         "green_card"
       ],
