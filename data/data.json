@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-10-13T11:44:38.188782+00:00",
-  "count": 421,
+  "generated_at": "2026-10-13T19:14:39.851396+00:00",
+  "count": 417,
   "source_count": 10,
   "items": [
+    {
+      "title": "My H1B change-of-employer petition has been filed. Can I begin working for the new employer before the petition is approved?",
+      "url": "https://www.murthy.com/2026/10/13/my-h1b-change-of-employer-petition-has-been-filed-can-i-begin-working-for-the-new-employer-before-the-petition-is-approved/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-10-13T14:57:35+00:00",
+      "summary": "Answer An individual who is eligible for H1B portability generally may begin working for the new employer once USCIS receives and accepts for processing a properly filed, nonfrivolous petition",
+      "categories": [
+        "h1b"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Travel Outside the U.S. as a Noncitizen: Documents You Need",
+      "url": "https://citizenpath.com/noncitizen-travel-documents/",
+      "source": "rss:citizenpath",
+      "source_trust": "analysis",
+      "published_at": "2026-10-13T13:00:00+00:00",
+      "summary": "Before you travel outside the U.S., know which document gets you back in: green card, reentry permit, or advance parole.\u2026 Continue Reading \u2192 The post Travel Outside the U.S",
+      "categories": [
+        "green_card",
+        "travel_entry"
+      ],
+      "actionable": false
+    },
     {
       "title": "Cuban Alien Arrested for Unlawfully Voting",
       "url": "https://www.uscis.gov/newsroom/news-releases/cuban-alien-arrested-for-unlawfully-voting",
@@ -316,18 +341,6 @@
       "actionable": true
     },
     {
-      "title": "I am applying for TN status to work for a U.S. employer. Am I allowed to pay the government filing fees and attorney fees myself?",
-      "url": "https://www.murthy.com/2026/09/29/i-am-applying-for-tn-status-to-work-for-a-u-s-employer-am-i-allowed-to-pay-the-government-filing-fees-and-attorney-fees-myself/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-09-29T15:29:38+00:00",
-      "summary": "Answer Generally, yes",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
       "title": "October 2026 Visa Bulletin",
       "url": "https://wolfsdorf.com/october-2026-visa-bulletin/",
       "source": "rss:wr_immigration",
@@ -637,18 +650,6 @@
       "summary": "Employers with Salvadoran employees working pursuant to Temporary Protected Status (TPS) are facing an unusual compliance situation as DHS has not yet issued a formal decision regarding the future of El Salvador\u2019s TPS designation",
       "categories": [
         "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Alien Registration Number: Where to Find Your A-Number",
-      "url": "https://citizenpath.com/alien-registration-number-explained/",
-      "source": "rss:citizenpath",
-      "source_trust": "analysis",
-      "published_at": "2026-09-10T13:00:00+00:00",
-      "summary": "Your A-Number appears as USCIS# on green cards and work permits",
-      "categories": [
-        "green_card"
       ],
       "actionable": false
     },
@@ -4615,54 +4616,6 @@
         "general"
       ],
       "actionable": false
-    },
-    {
-      "title": "USCIS Reaches H-2B Cap for First Half of FY 2024",
-      "url": "https://www.uscis.gov/newsroom/alerts/uscis-reaches-h-2b-cap-for-first-half-of-fy-2024",
-      "source": "rss:uscis_alerts",
-      "source_trust": "official",
-      "published_at": "2023-10-13T20:27:29+00:00",
-      "summary": "U.S",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "USCIS Issues New Instructions for Filing Asylum Applications with USCIS After EOIR Dismissal or Termination of Removal Proceedings",
-      "url": "https://www.uscis.gov/newsroom/alerts/uscis-issues-new-instructions-for-filing-asylum-applications-with-uscis-after-eoir-dismissal-or",
-      "source": "rss:uscis_alerts",
-      "source_trust": "official",
-      "published_at": "2023-10-13T18:01:01+00:00",
-      "summary": "U.S",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "USCIS Launches New Online Change of Address Tool",
-      "url": "https://www.uscis.gov/newsroom/alerts/uscis-launches-new-online-change-of-address-tool",
-      "source": "rss:uscis_alerts",
-      "source_trust": "official",
-      "published_at": "2023-10-12T16:44:59+00:00",
-      "summary": "U.S",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "USCIS Provides Additional Guidance for EB-5 Required Investment Timeframe and Investors Associated with Terminated Regional Centers",
-      "url": "https://www.uscis.gov/newsroom/alerts/uscis-provides-additional-guidance-for-eb-5-required-investment-timeframe-and-investors-associated",
-      "source": "rss:uscis_alerts",
-      "source_trust": "official",
-      "published_at": "2023-10-11T14:26:34+00:00",
-      "summary": "We are providing additional guidance on our interpretation of changes to the EB-5 program in the Immigration and Nationality Act (INA) made by the EB-5 Reform and Integrity Act of 2022 (RIA), specifically the required investment timeframe and how we treat investors who are associated with a terminat",
-      "categories": [
-        "green_card"
-      ],
-      "actionable": true
     },
     {
       "title": "60-Day Notice of Proposed Information Collection: Supplemental Questions for Visa Applicants",
