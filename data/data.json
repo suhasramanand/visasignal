@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-10-14T13:41:53.501577+00:00",
+  "generated_at": "2026-10-14T20:11:27.458362+00:00",
   "count": 419,
   "source_count": 10,
   "items": [
+    {
+      "title": "Requirement to Prove Ability to Pay in an I-140 Petition",
+      "url": "https://www.murthy.com/2016/11/22/requirement-to-prove-ability-to-pay-in-an-i-140-petition/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-10-14T17:35:02+00:00",
+      "summary": "In the typical employment-based permanent residence (commonly, \u201cgreen card\u201d) case, the second stage of the three-stage process is the employer\u2019s Immigrant Petition for Alien Worker, filed on the I-140 form",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "EAD Auto-Extension Rule Finalized",
+      "url": "https://www.murthy.com/2026/10/14/ead-auto-extension-rule-finalized/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-10-14T13:42:51+00:00",
+      "summary": "DHS finalized its 2025 rule without substantive changes",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "Removal of Automatic Extensions for Certain Employment Authorization Documents",
       "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents",
@@ -317,18 +341,6 @@
       "actionable": false
     },
     {
-      "title": "H1B $100K Fee: Courts Align",
-      "url": "https://www.murthy.com/2026/10/01/h-1b-100k-fee-courts-align/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-10-01T19:59:58+00:00",
-      "summary": "A Massachusetts court vacated the fee policies in June 2026",
-      "categories": [
-        "h1b"
-      ],
-      "actionable": false
-    },
-    {
       "title": "How the Asylum Process Works: Affirmative vs. Defensive Cases",
       "url": "https://citizenpath.com/asylum-process-how-it-works/",
       "source": "rss:citizenpath",
@@ -337,18 +349,6 @@
       "summary": "The asylum process runs two ways: through USCIS or immigration court",
       "categories": [
         "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Automatic Visa Revalidation May Permit Limited Reentry from Canada or Mexico",
-      "url": "https://www.murthy.com/2018/03/26/contiguous-territory-rule-permits-reentry-from-canada-or-mexico-2/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-09-30T17:30:57+00:00",
-      "summary": "International travel can present challenges for foreign nationals whose visa stamps have expired, even when they remain in valid nonimmigrant status in the United States",
-      "categories": [
-        "travel_entry"
       ],
       "actionable": false
     },
