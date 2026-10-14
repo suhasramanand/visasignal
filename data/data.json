@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-14T04:49:52.395594+00:00",
-  "count": 418,
+  "generated_at": "2026-10-14T13:41:53.501577+00:00",
+  "count": 419,
   "source_count": 10,
   "items": [
+    {
+      "title": "Removal of Automatic Extensions for Certain Employment Authorization Documents",
+      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents",
+      "source": "federal_register:dhs_rules",
+      "source_trust": "official",
+      "published_at": "2026-10-14",
+      "summary": "On October 30, 2025, DHS published an interim final rule (IFR) that amended DHS regulations to end the practice of automatically extending the validity of employment authorization documents (Forms I- 766 or EADs) for aliens who have timely filed an application to renew their EAD in certain employment authorization categories",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
     {
       "title": "NewsFlash! DHS Proposes to End Deference to Prior Nonimmigrant Worker Petition Approvals",
       "url": "https://www.murthy.com/2026/10/13/newsflash-dhs-proposes-to-end-deference-to-prior-nonimmigrant-worker-petition-approvals/",
