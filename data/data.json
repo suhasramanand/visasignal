@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-10-15T13:23:32.549835+00:00",
+  "generated_at": "2026-10-15T19:52:45.204411+00:00",
   "count": 419,
   "source_count": 10,
   "items": [
+    {
+      "title": "WR Immigration News Digest",
+      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261015/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-10-15T18:06:20+00:00",
+      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Liberian Child Rapist Convicted of Naturalization Fraud, Denaturalized, and Judicially Ordered Removed from the U.S.",
+      "url": "https://www.uscis.gov/newsroom/news-releases/liberian-child-rapist-convicted-of-naturalization-fraud-denaturalized-and-judicially-ordered-removed",
+      "source": "rss:uscis_news",
+      "source_trust": "official",
+      "published_at": "2026-10-15T13:51:51+00:00",
+      "summary": "U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Is a Foreign Marriage Valid in the U.S.? What Immigration Requires",
+      "url": "https://citizenpath.com/valid-marriage-for-immigration-purposes/",
+      "source": "rss:citizenpath",
+      "source_trust": "analysis",
+      "published_at": "2026-10-15T13:00:00+00:00",
+      "summary": "A foreign marriage is valid in the U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "Requirement to Prove Ability to Pay in an I-140 Petition",
       "url": "https://www.murthy.com/2016/11/22/requirement-to-prove-ability-to-pay-in-an-i-140-petition/",
@@ -179,18 +215,6 @@
       "source_trust": "analysis",
       "published_at": "2026-10-08T18:37:57+00:00",
       "summary": "At an Oct",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "WR Immigration News Digest",
-      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261008/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-10-08T17:24:47+00:00",
-      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
       "categories": [
         "general"
       ],
@@ -618,18 +642,6 @@
       "actionable": false
     },
     {
-      "title": "I-130 Affidavit Sample: How to Write a Letter Supporting Your Spouse\u2019s Petition",
-      "url": "https://citizenpath.com/i-130-affidavit-sample-spouse/",
-      "source": "rss:citizenpath",
-      "source_trust": "analysis",
-      "published_at": "2026-09-15T13:00:00+00:00",
-      "summary": "An I-130 affidavit is optional evidence to strengthen your case",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
       "title": "Federal Court Postpones Effective Date of Rule Ending \u201cDuration of Status\u201d",
       "url": "https://wolfsdorf.com/federal-court-postpones-effective-date-of-rule-ending-duration-of-status/",
       "source": "rss:wr_immigration",
@@ -962,18 +974,6 @@
       "summary": "The Department of Homeland Security (DHS) has issued new guidance implementing a significant change to the admission of J-1 exchange visitors",
       "categories": [
         "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Domestic Travel for U.S. Permanent Residents,\u00a0Visa Holders, and Undocumented Persons",
-      "url": "https://wolfsdorf.com/domestic-travel-for-u-s-permanent-residents-visa-holders-and-undocumented-persons/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-08-10T17:32:47+00:00",
-      "summary": "Important: Domestic travel can carry different immigration risks depending on your status, immigration history, criminal history, and destination",
-      "categories": [
-        "green_card"
       ],
       "actionable": false
     },
