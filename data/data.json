@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-16T13:13:58.461037+00:00",
+  "generated_at": "2026-10-16T19:32:59.266758+00:00",
   "count": 419,
   "source_count": 10,
   "items": [
+    {
+      "title": "Weekly Immigration News: Judge Orders the 2027 Green Card Lottery Back Open",
+      "url": "https://citizenpath.com/immigration-news/",
+      "source": "rss:citizenpath",
+      "source_trust": "analysis",
+      "published_at": "2026-10-16T16:43:00+00:00",
+      "summary": "Stay informed with our weekly immigration news roundup covering USCIS policy changes, court rulings, and other stories affecting immigrants.\u2026 Continue Reading \u2192 The post Weekly Immigration News: Judge Orders the 2027 Green Card Lottery Back Open appeared first on CitizenPath .",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
     {
       "title": "WR Immigration News Digest",
       "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261015/",
@@ -157,18 +169,6 @@
       "summary": "U.S",
       "categories": [
         "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Weekly Immigration News: U.S. Labor Department Freezes Green Card Filings at Microsoft, Adobe and Six IT Firms",
-      "url": "https://citizenpath.com/immigration-news/",
-      "source": "rss:citizenpath",
-      "source_trust": "analysis",
-      "published_at": "2026-10-09T16:14:00+00:00",
-      "summary": "Stay informed with our weekly immigration news roundup covering USCIS policy changes, court rulings, and other stories affecting immigrants.\u2026 Continue Reading \u2192 The post Weekly Immigration News: U.S",
-      "categories": [
-        "green_card"
       ],
       "actionable": false
     },
