@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-19T15:34:26.881708+00:00",
-  "count": 419,
+  "generated_at": "2026-10-19T21:01:56.572027+00:00",
+  "count": 420,
   "source_count": 10,
   "items": [
+    {
+      "title": "Massachusetts Man Charged for His Role in Marriage and Immigration Document Fraud",
+      "url": "https://www.uscis.gov/newsroom/news-releases/massachusetts-man-charged-for-his-role-in-marriage-and-immigration-document-fraud",
+      "source": "rss:uscis_news",
+      "source_trust": "official",
+      "published_at": "2026-10-19T18:20:11+00:00",
+      "summary": "U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "EB-5 source of funds update: What are the courts saying?",
       "url": "https://wolfsdorf.com/eb-5-source-of-funds-update-what-are-the-courts-saying/",
