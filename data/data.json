@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-19T04:36:37.302293+00:00",
+  "generated_at": "2026-10-19T15:34:26.881708+00:00",
   "count": 419,
   "source_count": 10,
   "items": [
+    {
+      "title": "EB-5 source of funds update: What are the courts saying?",
+      "url": "https://wolfsdorf.com/eb-5-source-of-funds-update-what-are-the-courts-saying/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-10-19T15:20:34+00:00",
+      "summary": "By Bernard Wolfsdorf Recent EB-5 decisions offer investors meaningful grounds to challenge excessive source-of-funds demands",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
     {
       "title": "Weekly Immigration News: Judge Orders the 2027 Green Card Lottery Back Open",
       "url": "https://citizenpath.com/immigration-news/",
@@ -964,18 +976,6 @@
         "general"
       ],
       "actionable": true
-    },
-    {
-      "title": "DHS Establishes Fixed Admission Periods for J-1 Exchange Visitors Effective September 15, 2026",
-      "url": "https://wolfsdorf.com/dhs-establishes-fixed-admission-periods-for-j-1-exchange-visitors-effective-september-15-2026/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-08-10T18:02:30+00:00",
-      "summary": "The Department of Homeland Security (DHS) has issued new guidance implementing a significant change to the admission of J-1 exchange visitors",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
     },
     {
       "title": "USCIS To Require Electronic Filing of Forms: Strengthening National Security",
