@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-20T13:32:38.737937+00:00",
+  "generated_at": "2026-10-20T19:59:13.765948+00:00",
   "count": 420,
   "source_count": 10,
   "items": [
+    {
+      "title": "I am in TN status and my employer plans to start a green card case for me. Will the immigrant petition automatically cancel my TN status?",
+      "url": "https://www.murthy.com/2026/10/20/i-am-in-tn-status-and-my-employer-plans-to-start-a-green-card-case-for-me-will-the-immigrant-petition-automatically-cancel-my-tn-status/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-10-20T18:09:37+00:00",
+      "summary": "Answer No",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
     {
       "title": "I-485 Instructions: How to Fill Out Each Part of the Form",
       "url": "https://citizenpath.com/i-485-instructions/",
@@ -323,18 +335,6 @@
       "source_trust": "analysis",
       "published_at": "2026-10-07T16:03:54+00:00",
       "summary": "Some applicants who have provided biometrics are seeing an unsettling update in their USCIS online case history: \u201cCase Required USCIS To Send A Notice.\u201d The accompanying message may say, \u201cOn [date], we issued a notice for your Form [form type], Receipt Number [number].\u201d In cases..",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "During my one year of employment abroad, I made several short business trips to the United States. Do the trips prevent me from qualifying for L-1 based on the L-1 one-year requirement?",
-      "url": "https://www.murthy.com/2026/10/06/during-my-one-year-of-employment-abroad-i-made-several-short-business-trips-to-the-united-states-do-the-trips-prevent-me-from-qualifying-for-l-1-based-on-the-l-1-one-year-requirement/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-10-06T17:19:19+00:00",
-      "summary": "Answer Brief trips to the United States generally do not interrupt the continuity of qualifying employment abroad",
       "categories": [
         "general"
       ],
