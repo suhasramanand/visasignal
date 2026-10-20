@@ -1,0 +1,90 @@
+{
+  "release_tag": "2026-10-19",
+  "release_published_at": "2026-10-19T10:20:21Z",
+  "release_age_hours": 18.4,
+  "stale": false,
+  "fetched_at": "2026-10-20T04:46:01.505572+00:00",
+  "data_source": "github.com/jzebedee/uscis (daily scrape, not official USCIS API)",
+  "highlights": [
+    {
+      "key": "I-765_147-C3",
+      "form": "I-765",
+      "label": "OPT (F-1 academic student)",
+      "range_lower_months": 5.0,
+      "range_upper_months": 6.5,
+      "display": "5 Months - 6.5 Months",
+      "as_of": "September 17, 2026"
+    },
+    {
+      "key": "I-129_137-H1B2",
+      "form": "I-129",
+      "label": "H-1B (change of status)",
+      "range_lower_months": 10.0,
+      "range_upper_months": 11.5,
+      "display": "10 Months - 11.5 Months",
+      "as_of": "September 17, 2026"
+    },
+    {
+      "key": "I-129_137-H1B3",
+      "form": "I-129",
+      "label": "H-1B (extension of stay)",
+      "range_lower_months": 11.5,
+      "range_upper_months": 12.5,
+      "display": "11.5 Months - 12.5 Months",
+      "as_of": "September 17, 2026"
+    },
+    {
+      "key": "I-140_136A-E21",
+      "form": "I-140",
+      "label": "I-140 EB-2 (advanced degree)",
+      "range_lower_months": 3.0,
+      "range_upper_months": 6.5,
+      "display": "3 Months - 6.5 Months",
+      "as_of": "September 17, 2026"
+    },
+    {
+      "key": "I-140_136A-E31",
+      "form": "I-140",
+      "label": "I-140 EB-3 (skilled worker)",
+      "range_lower_months": 4.0,
+      "range_upper_months": 8.0,
+      "display": "4 Months - 8 Months",
+      "as_of": "September 17, 2026"
+    },
+    {
+      "key": "I-485_median",
+      "form": "I-485",
+      "label": "Adjustment of Status (median across field offices)",
+      "range_lower_months": 16.5,
+      "range_upper_months": 33.0,
+      "display": "~16.5 - 33 months",
+      "as_of": null
+    }
+  ],
+  "movement": {
+    "I-765_147-C3": {
+      "delta_lower_months": 0.0,
+      "delta_upper_months": 0.0
+    },
+    "I-129_137-H1B2": {
+      "delta_lower_months": 0.0,
+      "delta_upper_months": 0.0
+    },
+    "I-129_137-H1B3": {
+      "delta_lower_months": 0.0,
+      "delta_upper_months": 0.0
+    },
+    "I-140_136A-E21": {
+      "delta_lower_months": 0.0,
+      "delta_upper_months": 0.0
+    },
+    "I-140_136A-E31": {
+      "delta_lower_months": 0.0,
+      "delta_upper_months": 0.0
+    },
+    "I-485_median": {
+      "delta_lower_months": 0.0,
+      "delta_upper_months": 0.0
+    }
+  }
+}
