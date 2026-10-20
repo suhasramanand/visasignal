@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-10-20T19:59:13.765948+00:00",
-  "count": 420,
+  "generated_at": "2026-10-20T23:10:14.037278+00:00",
+  "count": 421,
   "source_count": 10,
   "items": [
+    {
+      "title": "Sudan and Ukraine\u00a0TPS Remain in Effect While Employers Await Formal DHS Guidance",
+      "url": "https://wolfsdorf.com/sudan-and-ukraine-tps-remain-in-effect-while-employers-await-formal-dhs-guidance/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-10-20T20:57:08+00:00",
+      "summary": "Employers with employees working pursuant to Temporary Protected Status (TPS)\u00a0from Sudan and Ukraine\u00a0are facing an unusual compliance situation as DHS has not yet issued a formal decision regarding the future of\u00a0Sudan\u2019s and Ukraine\u2019s\u00a0TPS designation, similar to the situation with El Salvador TPS",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Canadian Alien Charged with Illegal Voting",
+      "url": "https://www.uscis.gov/newsroom/news-releases/canadian-alien-charged-with-illegal-voting",
+      "source": "rss:uscis_news",
+      "source_trust": "official",
+      "published_at": "2026-10-20T19:16:50+00:00",
+      "summary": "A grand jury returned an indictment charging Sandra Madeline Watson, 59, of Louisville, with illegal voting by an alien in a federal election.",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "I am in TN status and my employer plans to start a green card case for me. Will the immigrant petition automatically cancel my TN status?",
       "url": "https://www.murthy.com/2026/10/20/i-am-in-tn-status-and-my-employer-plans-to-start-a-green-card-case-for-me-will-the-immigrant-petition-automatically-cancel-my-tn-status/",
@@ -912,18 +936,6 @@
       "source_trust": "analysis",
       "published_at": "2026-08-18T10:24:00+00:00",
       "summary": "New co-branded platform equips state and local leaders with practical tools for responding when federal immigration enforcement affects communities\u00a0\u00a0 NEW HAVEN, CT / WASHINGTON, DC \u2014 As cities, counties, and states navigate responding to the impact of federal immigration enforcement policies, the Am",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "TPS Updates for El Salvador and Somalia",
-      "url": "https://wolfsdorf.com/tps-updates-for-el-salvador-and-somalia/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-08-13T20:21:37+00:00",
-      "summary": "On August 12,\u00a02026\u00a0the Uinted States Citizenship and Immigration Services (USCIS) issued an\u00a0Alert\u00a0about an extension of the work authorization for TPS El Salvador.\u00a0\u00a0USCIS is extending the work authorization for individuals with TPS El\u00a0Salvador\u00a0 based\u00a0on an individual notice and not a general notice ",
       "categories": [
         "general"
       ],
