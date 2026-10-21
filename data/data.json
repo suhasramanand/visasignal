@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-21T13:45:04.219305+00:00",
+  "generated_at": "2026-10-21T20:08:03.193830+00:00",
   "count": 421,
   "source_count": 10,
   "items": [
+    {
+      "title": "Preparing for a Nonimmigrant Visa Interview",
+      "url": "https://www.murthy.com/2026/10/21/preparing-for-a-nonimmigrant-visa-interview/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-10-21T19:55:22+00:00",
+      "summary": "A consular interview is an important step for many applicants seeking a U.S",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
     {
       "title": "Sudan and Ukraine\u00a0TPS Remain in Effect While Employers Await Formal DHS Guidance",
       "url": "https://wolfsdorf.com/sudan-and-ukraine-tps-remain-in-effect-while-employers-await-formal-dhs-guidance/",
@@ -349,18 +361,6 @@
       "summary": "The U.S",
       "categories": [
         "opt"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "USCIS \u201cNotice Sent\u201d Update After Biometrics: What the FBI Privacy Letter Means",
-      "url": "https://www.murthy.com/2026/10/07/uscis-notice-sent-update-after-biometrics-what-the-fbi-privacy-letter-means/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-10-07T16:03:54+00:00",
-      "summary": "Some applicants who have provided biometrics are seeing an unsettling update in their USCIS online case history: \u201cCase Required USCIS To Send A Notice.\u201d The accompanying message may say, \u201cOn [date], we issued a notice for your Form [form type], Receipt Number [number].\u201d In cases..",
-      "categories": [
-        "general"
       ],
       "actionable": false
     },
