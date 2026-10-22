@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-10-22T13:45:29.406738+00:00",
-  "count": 421,
+  "generated_at": "2026-10-22T20:05:36.008402+00:00",
+  "count": 423,
   "source_count": 10,
   "items": [
+    {
+      "title": "November 2026 Visa Bulletin",
+      "url": "https://www.murthy.com/2026/10/22/november-2026-visa-bulletin/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-10-22T18:16:18+00:00",
+      "summary": "The U.S",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Rapid-Fire Wednesdays Podcast | PERM, EADs & TPS Changes",
+      "url": "https://wolfsdorf.com/immigration-update-recap-rapid-fire-wednesdays-podcast/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-10-22T16:10:04+00:00",
+      "summary": "The transcript version of our weekly Q&A for corporate immigration professionals",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "TPS ALERT: UKRAINE, SUDAN, & EL SALVADOR",
+      "url": "https://www.murthy.com/2026/10/22/tps-alert-ukraine-sudan-el-salvador/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-10-22T13:53:36+00:00",
+      "summary": "USCIS says TPS beneficiaries from all three countries retain protection, including work authorization, pending an announcement",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Alien from South Africa Charged with Unlawful Voting",
+      "url": "https://www.uscis.gov/newsroom/news-releases/alien-from-south-africa-charged-with-unlawful-voting",
+      "source": "rss:uscis_news",
+      "source_trust": "official",
+      "published_at": "2026-10-22T13:46:58+00:00",
+      "summary": "A South African alien and lawful permanent resident was charged with unlawfully voting in the November 2024 federal election",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
     {
       "title": "Preparing for a Nonimmigrant Visa Interview",
       "url": "https://www.murthy.com/2026/10/21/preparing-for-a-nonimmigrant-visa-interview/",
@@ -317,18 +365,6 @@
       "actionable": false
     },
     {
-      "title": "MurthyAudio: H1B Job Terminations and RFEs",
-      "url": "https://www.murthy.com/2026/10/07/murthyaudio-h1b-job-terminations-and-rfes/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-10-07T20:07:02+00:00",
-      "summary": "The employer\u2019s legal requirements for a layoff of an H1B worker and trends in Requests for Evidence are discussed by Murthy Law Firm attorneys in the October 2026 podcast",
-      "categories": [
-        "h1b"
-      ],
-      "actionable": false
-    },
-    {
       "title": "Italian Alien Charged With Voting in 2024 General Election and Lying About It",
       "url": "https://www.uscis.gov/newsroom/news-releases/italian-alien-charged-with-voting-in-2024-general-election-and-lying-about-it",
       "source": "rss:uscis_news",
@@ -351,18 +387,6 @@
         "opt"
       ],
       "actionable": true
-    },
-    {
-      "title": "NewsFlash! DHS Proposes $70,000 Initial OPT Fee and $30,000 Fee for Subsequent OPT",
-      "url": "https://www.murthy.com/2026/10/07/newsflash-dhs-proposes-70000-initial-opt-fee-and-30000-fee-for-subsequent-opt/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-10-07T18:43:32+00:00",
-      "summary": "The U.S",
-      "categories": [
-        "opt"
-      ],
-      "actionable": false
     },
     {
       "title": "Selective Service for Citizenship: What If You Didn\u2019t Register?",
