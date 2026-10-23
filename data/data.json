@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-10-23T13:23:43.733198+00:00",
-  "count": 426,
+  "generated_at": "2026-10-23T19:56:44.147188+00:00",
+  "count": 420,
   "source_count": 10,
   "items": [
+    {
+      "title": "In Major Setback for Due Process, Fifth Circuit Ruling Denies Immigrants the Opportunity to Challenge Their Detention",
+      "url": "https://www.americanimmigrationcouncil.org/press-release/fifth-circuit-immigration-detention-ruling-major-setback-due-process/",
+      "source": "rss:american_immigration_council",
+      "source_trust": "analysis",
+      "published_at": "2026-10-23T18:22:08+00:00",
+      "summary": "Oct 23 Friday, Washington DC \u2014 In response to today\u2019s U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Weekly Immigration News: November Visa Bulletin Moves Most Family Green Card Lines Forward a Full Year",
+      "url": "https://citizenpath.com/immigration-news/",
+      "source": "rss:citizenpath",
+      "source_trust": "analysis",
+      "published_at": "2026-10-23T16:43:00+00:00",
+      "summary": "Stay informed with our weekly immigration news roundup covering USCIS policy changes, court rulings, and other stories affecting immigrants.\u2026 Continue Reading \u2192 The post Weekly Immigration News: November Visa Bulletin Moves Most Family Green Card Lines Forward a Full Year appeared first on CitizenPa",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
     {
       "title": "November 2026 Visa Bulletin: Selected Employment Categories Make Gains, Family Categories Advance",
       "url": "https://wolfsdorf.com/november-2026-visa-bulletin-selected-employment-categories-make-gains-family-categories-advance/",
@@ -190,18 +214,6 @@
       "source_trust": "analysis",
       "published_at": "2026-10-19T15:20:34+00:00",
       "summary": "By Bernard Wolfsdorf Recent EB-5 decisions offer investors meaningful grounds to challenge excessive source-of-funds demands",
-      "categories": [
-        "green_card"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Weekly Immigration News: Judge Orders the 2027 Green Card Lottery Back Open",
-      "url": "https://citizenpath.com/immigration-news/",
-      "source": "rss:citizenpath",
-      "source_trust": "analysis",
-      "published_at": "2026-10-16T16:43:00+00:00",
-      "summary": "Stay informed with our weekly immigration news roundup covering USCIS policy changes, court rulings, and other stories affecting immigrants.\u2026 Continue Reading \u2192 The post Weekly Immigration News: Judge Orders the 2027 Green Card Lottery Back Open appeared first on CitizenPath .",
       "categories": [
         "green_card"
       ],
@@ -1116,18 +1128,6 @@
       "source_trust": "analysis",
       "published_at": "2026-07-29T19:06:01+00:00",
       "summary": "Washington, DC \u2014 Most Americans feel safe and comfortable in their communities, but only about one in four believe they have any real influence over how those communities are run, according to a new national study released today.\u00a0 The Center for Inclusion & Belonging at the American Immigration Coun",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Measuring What Matters: How Washington Main Street Is Using the Belonging Barometer to Strengthen Downtown Communities",
-      "url": "https://www.americanimmigrationcouncil.org/case-studies/washington-main-street-belonging-barometer/",
-      "source": "rss:american_immigration_council",
-      "source_trust": "analysis",
-      "published_at": "2026-07-29T13:51:04+00:00",
-      "summary": "For decades, community revitalization has been measured by what we can easily count: number of new businesses, jobs created, building rehabilitations, affordable housing units, and dollars invested",
       "categories": [
         "general"
       ],
@@ -4648,78 +4648,6 @@
       "source_trust": "official",
       "published_at": "2023-11-06T20:39:17+00:00",
       "summary": "As of Aug",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Certain Renewal Applicants for Employment Authorization to Receive Automatic 180 Day Extension",
-      "url": "https://www.uscis.gov/newsroom/alerts/certain-renewal-applicants-for-employment-authorization-to-receive-automatic-180-day-extension",
-      "source": "rss:uscis_alerts",
-      "source_trust": "official",
-      "published_at": "2023-10-27T19:03:05+00:00",
-      "summary": "Certain renewal applicants who have filed Form I-765, Application for Employment Authorization, qualify for an automatic extension of their expiring employment authorization and/or employment authorization documents (EADs) while their renewal application is pending.",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "USCIS Extends Parole by Two Years for Certain Afghan Nationals Under Age 14",
-      "url": "https://www.uscis.gov/newsroom/alerts/uscis-extends-parole-by-two-years-for-certain-afghan-nationals-under-age-14",
-      "source": "rss:uscis_alerts",
-      "source_trust": "official",
-      "published_at": "2023-10-26T15:41:49+00:00",
-      "summary": "USCIS announced today that we will consider two-year extensions of the initial parole period on a case-by-case basis for certain Afghan nationals who:",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "USCIS Updates Guidance on EB-5 Regional Center Program",
-      "url": "https://www.uscis.gov/newsroom/alerts/uscis-updates-guidance-on-eb-5-regional-center-program",
-      "source": "rss:uscis_alerts",
-      "source_trust": "official",
-      "published_at": "2023-10-26T13:18:59+00:00",
-      "summary": "We are updating the USCIS Policy Manual with new guidance on the EB-5 Regional Center Program and new content on regional center designation and obligations, project applications, and direct and third-party promoters.",
-      "categories": [
-        "green_card"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "USCIS Issues Policy Guidance Regarding the 2-Year Foreign Residence Requirement for the J Nonimmigrant Classification",
-      "url": "https://www.uscis.gov/newsroom/alerts/uscis-issues-policy-guidance-regarding-the-2-year-foreign-residence-requirement-for-the-j",
-      "source": "rss:uscis_alerts",
-      "source_trust": "official",
-      "published_at": "2023-10-24T13:29:35+00:00",
-      "summary": "U.S",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "DHS Issues Proposed Rule to Modernize the H-1B Specialty Occupation Worker Program",
-      "url": "https://www.uscis.gov/newsroom/news-releases/dhs-issues-proposed-rule-to-modernize-the-h-1b-specialty-occupation-worker-program",
-      "source": "rss:uscis_news",
-      "source_trust": "official",
-      "published_at": "2023-10-20T19:35:40+00:00",
-      "summary": "Today, the Department of Homeland Security (DHS), through U.S",
-      "categories": [
-        "h1b"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "USCIS Clarifies Policy on L-1 Petitions",
-      "url": "https://www.uscis.gov/newsroom/alerts/uscis-clarifies-policy-on-l-1-petitions",
-      "source": "rss:uscis_alerts",
-      "source_trust": "official",
-      "published_at": "2023-10-20T17:16:58+00:00",
-      "summary": "U.S",
       "categories": [
         "general"
       ],
