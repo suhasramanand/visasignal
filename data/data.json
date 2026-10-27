@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-10-27T14:28:14.712796+00:00",
+  "generated_at": "2026-10-27T20:40:54.480923+00:00",
   "count": 421,
   "source_count": 10,
   "items": [
+    {
+      "title": "The Business Immigration Benchmark Podcast | Managing Travel Risks, H-1B Delays & PERM Uncertainty",
+      "url": "https://wolfsdorf.com/business-immigration-updates-h1b-perm-travel/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-10-27T20:32:01+00:00",
+      "summary": "The transcript version of The Business Immigration Benchmark podcast for HR and Global Mobility professionals",
+      "categories": [
+        "h1b"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Supreme Court Leaves Restrictions on Administrative Closure in Place",
+      "url": "https://www.murthy.com/2026/10/27/supreme-court-leaves-restrictions-on-administrative-closure-in-place/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-10-27T18:27:12+00:00",
+      "summary": "The Supreme Court declined to pause a lower-court judgment blocking the 2024 administrative-closure rule",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "My application under the company\u2019s blanket L approval was denied at the consulate. Can the employer still file an individual L-1 petition with USCIS?",
+      "url": "https://www.murthy.com/2026/10/27/my-application-under-the-companys-blanket-l-approval-was-denied-at-the-consulate-can-the-employer-still-file-an-individual-l-1-petition-with-uscis/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-10-27T14:42:32+00:00",
+      "summary": "Answer Generally, yes",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "Character Reference Letter for Naturalization: What USCIS Wants to See",
       "url": "https://citizenpath.com/character-reference-letter-naturalization/",
@@ -401,18 +437,6 @@
       "actionable": false
     },
     {
-      "title": "Federal Probe of University J-1 Programs",
-      "url": "https://www.murthy.com/2026/10/09/federal-probe-of-university-j-1-programs/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-10-09T13:33:57+00:00",
-      "summary": "Vice President Vance says nine major universities, including Harvard, Yale, and Stanford, are under investigation over potential misuse of the J-1 exchange visitor program",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
       "title": "DOL Announces PERM Suspensions for Microsoft, Adobe, and Major IT Firms",
       "url": "https://wolfsdorf.com/dol-announces-perm-suspensions-for-microsoft-adobe-and-major-it-firms/",
       "source": "rss:wr_immigration",
@@ -423,18 +447,6 @@
         "general"
       ],
       "actionable": true
-    },
-    {
-      "title": "PERM Suspensions: White House News Conference",
-      "url": "https://www.murthy.com/2026/10/08/perm-suspensions-white-house-news-conference/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-10-08T18:37:57+00:00",
-      "summary": "At an Oct",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
     },
     {
       "title": "How to Get Married Online and Qualify for a Green Card",
@@ -936,18 +948,6 @@
       "source_trust": "official",
       "published_at": "2026-08-25",
       "summary": "The Department of Homeland Security (DHS) proposes to establish a $103,265 fee, payable at the time of filing, for all H-1B cap-subject petitions, including those eligible for the advanced degree exemption, which would be imposed in addition to all other applicable fees or payments",
-      "categories": [
-        "h1b"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "DHS Proposes Unprecedented $103,265 Fee for H-1B Cap-Subject Petitions",
-      "url": "https://wolfsdorf.com/dhs-proposes-unprecedented-103265-fee-for-h-1b-cap-subject-petitions/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-08-24T21:35:37+00:00",
-      "summary": "The Department of Homeland Security (DHS) has proposed a sweeping new rule that would impose an additional\u00a0$103,265 fee on every H-1B petition subject to the annual statutory cap",
       "categories": [
         "h1b"
       ],
