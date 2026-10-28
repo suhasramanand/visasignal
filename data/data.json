@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-10-28T15:05:11.432514+00:00",
-  "count": 421,
+  "generated_at": "2026-10-28T21:01:33.522704+00:00",
+  "count": 422,
   "source_count": 10,
   "items": [
+    {
+      "title": "New Lawsuit Seeks Information About ICE\u2019s Efforts to Restrict Public Access to Records",
+      "url": "https://www.americanimmigrationcouncil.org/press-release/new-lawsuit-seeks-information-about-ice-efforts-restrict-public-access-records/",
+      "source": "rss:american_immigration_council",
+      "source_trust": "analysis",
+      "published_at": "2026-10-28T20:54:37+00:00",
+      "summary": "WASHINGTON, D.C., October 28, 2026 \u2014 The American Immigration Council, the Tennessee Immigrant and Refugee Rights Coalition (TIRRC), and researcher Meghan Conley filed a lawsuit today seeking information about what ICE is telling local police and sheriffs about sharing immigration enforcement record",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Chatting with Charlie Webinar Series",
+      "url": "https://wolfsdorf.com/chattingwithcharlie/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-10-28T18:45:22+00:00",
+      "summary": "Former U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Noncitizens Should Check Voter Registration Records Before the General Election",
+      "url": "https://www.murthy.com/2026/10/28/noncitizens-should-check-voter-registration-records-before-the-general-election/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-10-28T16:59:51+00:00",
+      "summary": "With the general election approaching, foreign nationals should understand that appearing on a voter roll does not establish eligibility to vote",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "PERM Reform Moves Toward Publication: Recruitment and Employer Compliance Changes Expected",
       "url": "https://wolfsdorf.com/perm-reform-moves-toward-publication-recruitment-and-employer-compliance-changes-expected/",
@@ -384,18 +420,6 @@
       "summary": "U.S",
       "categories": [
         "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "My H1B change-of-employer petition has been filed. Can I begin working for the new employer before the petition is approved?",
-      "url": "https://www.murthy.com/2026/10/13/my-h1b-change-of-employer-petition-has-been-filed-can-i-begin-working-for-the-new-employer-before-the-petition-is-approved/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-10-13T14:57:35+00:00",
-      "summary": "Answer An individual who is eligible for H1B portability generally may begin working for the new employer once USCIS receives and accepts for processing a properly filed, nonfrivolous petition",
-      "categories": [
-        "h1b"
       ],
       "actionable": false
     },
@@ -1132,18 +1156,6 @@
         "general"
       ],
       "actionable": true
-    },
-    {
-      "title": "National Study: Only 1 in 4 Americans Believe They Can Influence Outcomes In Their Local Community",
-      "url": "https://www.americanimmigrationcouncil.org/press-release/national-study-influence-local-community/",
-      "source": "rss:american_immigration_council",
-      "source_trust": "analysis",
-      "published_at": "2026-07-29T19:06:01+00:00",
-      "summary": "Washington, DC \u2014 Most Americans feel safe and comfortable in their communities, but only about one in four believe they have any real influence over how those communities are run, according to a new national study released today.\u00a0 The Center for Inclusion & Belonging at the American Immigration Coun",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
     },
     {
       "title": "USCIS Announces Rule Change to Asylum System to Reduce Backlog",
