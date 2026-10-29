@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-10-29T15:12:32.738982+00:00",
-  "count": 422,
+  "generated_at": "2026-10-29T21:06:31.531272+00:00",
+  "count": 423,
   "source_count": 10,
   "items": [
+    {
+      "title": "WR Immigration News Digest",
+      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261029/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-10-29T19:09:44+00:00",
+      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Under President Trump\u2019s Leadership, USCIS Takes Unprecedented 2.2 Million Enforcement Actions Protecting Americans Across the Nation",
+      "url": "https://www.uscis.gov/newsroom/news-releases/under-president-trumps-leadership-uscis-takes-unprecedented-22-million-enforcement-actions",
+      "source": "rss:uscis_news",
+      "source_trust": "official",
+      "published_at": "2026-10-29T18:41:29+00:00",
+      "summary": "Under the leadership of President Donald J",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Rapid-Fire Wednesdays Podcast | November 2026 Visa Bulletin & More TPS Changes",
+      "url": "https://wolfsdorf.com/rapid-fire-wednesdays-podcast-november-2026-visa-bulletin-tps-updates/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-10-29T18:18:29+00:00",
+      "summary": "The transcript version of our weekly Q&A for corporate immigration professionals",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "K-3 Visa for Spouses: How It Works and Why It\u2019s Rarely Issued",
+      "url": "https://citizenpath.com/k3-visa-process/",
+      "source": "rss:citizenpath",
+      "source_trust": "analysis",
+      "published_at": "2026-10-29T13:00:00+00:00",
+      "summary": "The K-3 visa offers spouses of U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "New Lawsuit Seeks Information About ICE\u2019s Efforts to Restrict Public Access to Records",
       "url": "https://www.americanimmigrationcouncil.org/press-release/new-lawsuit-seeks-information-about-ice-efforts-restrict-public-access-records/",
@@ -144,18 +192,6 @@
       "summary": "Comparison with the October 2026 Visa Bulletin The November 2026 Visa Bulletin show: USCIS is allowing use of Chart B Dates for Filing for adjustment-of-status applications",
       "categories": [
         "green_card"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "WR Immigration News Digest",
-      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261022/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-10-22T20:31:34+00:00",
-      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
-      "categories": [
-        "general"
       ],
       "actionable": false
     },
@@ -725,18 +761,6 @@
       "actionable": false
     },
     {
-      "title": "Your Immigration File: What USCIS Has on You and What It Doesn\u2019t",
-      "url": "https://citizenpath.com/get-copy-immigration-file/",
-      "source": "rss:citizenpath",
-      "source_trust": "analysis",
-      "published_at": "2026-09-24T13:00:00+00:00",
-      "summary": "Your immigration file holds everything you filed with USCIS, but not copies of your certificates",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
       "title": "Man Charged with Naturalization Fraud; Three Others Face Denaturalization",
       "url": "https://www.uscis.gov/newsroom/news-releases/man-charged-with-naturalization-fraud-three-others-face-denaturalization",
       "source": "rss:uscis_news",
@@ -936,18 +960,6 @@
       "source_trust": "official",
       "published_at": "2026-09-03T18:15:27+00:00",
       "summary": "U.S",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Global Immigration Recap: August 2026",
-      "url": "https://wolfsdorf.com/global-immigration-recap-august-2026/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-09-02T21:54:56+00:00",
-      "summary": "Our March global immigration recap includes the latest on the EU\u2019s implementation of the digital Entry/Exit System (EES), the United Kingdom\u2019s updated guidance for sponsors of foreign workers, Australia\u2019s skilled visa nomination income thresholds, Singapore\u2019s new AI & Tech ONE Pass, and more",
       "categories": [
         "general"
       ],
