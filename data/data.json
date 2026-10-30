@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-29T21:06:31.531272+00:00",
+  "generated_at": "2026-10-30T05:43:14.991433+00:00",
   "count": 423,
   "source_count": 10,
   "items": [
+    {
+      "title": "How Wenatchee Downtown Association Used the Belonging Barometer to Rethink Community",
+      "url": "https://www.americanimmigrationcouncil.org/case-studies/wenatchee-community-belonging/",
+      "source": "rss:american_immigration_council",
+      "source_trust": "analysis",
+      "published_at": "2026-10-29T23:01:11+00:00",
+      "summary": "The Wenatchee Downtown Association used the Belonging Barometer to measure community belonging, improve outreach, increase accessibility, and create a more inclusive downtown experience for residents",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "WR Immigration News Digest",
       "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261029/",
@@ -1044,18 +1056,6 @@
       "source_trust": "official",
       "published_at": "2026-08-18T14:14:09+00:00",
       "summary": "U.S",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "As Federal Immigration Enforcement Expands, New Playbook Helps State and Local Leaders Respond",
-      "url": "https://www.americanimmigrationcouncil.org/press-release/playbook-helps-state-local-leaders-respond-immigration-enforcement/",
-      "source": "rss:american_immigration_council",
-      "source_trust": "analysis",
-      "published_at": "2026-08-18T10:24:00+00:00",
-      "summary": "New co-branded platform equips state and local leaders with practical tools for responding when federal immigration enforcement affects communities\u00a0\u00a0 NEW HAVEN, CT / WASHINGTON, DC \u2014 As cities, counties, and states navigate responding to the impact of federal immigration enforcement policies, the Am",
       "categories": [
         "general"
       ],
