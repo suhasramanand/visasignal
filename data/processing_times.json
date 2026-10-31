@@ -1,9 +1,9 @@
 {
   "release_tag": "2026-10-31",
   "release_published_at": "2026-10-31T10:39:10Z",
-  "release_age_hours": 3.9,
+  "release_age_hours": 9.3,
   "stale": false,
-  "fetched_at": "2026-10-31T14:31:17.951908+00:00",
+  "fetched_at": "2026-10-31T19:57:25.312432+00:00",
   "data_source": "github.com/jzebedee/uscis (daily scrape, not official USCIS API)",
   "highlights": [
     {
