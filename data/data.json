@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-03T11:53:43.521604+00:00",
+  "generated_at": "2026-11-03T19:28:24.008800+00:00",
   "count": 424,
   "source_count": 10,
   "items": [
+    {
+      "title": "I have a valid H1B visa stamp showing my former employer\u2019s name, and my new employer\u2019s H1B petition has been approved. Do I need a new visa stamp before traveling?",
+      "url": "https://www.murthy.com/2026/11/03/i-have-a-valid-h1b-visa-stamp-showing-my-former-employers-name-and-my-new-employers-h1b-petition-has-been-approved-do-i-need-a-new-visa-stamp-before-traveling/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-11-03T16:13:16+00:00",
+      "summary": "Answer Generally, no",
+      "categories": [
+        "h1b"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Child Custody Document for Immigration: What Embassies Expect",
+      "url": "https://citizenpath.com/child-custody-document-immigration/",
+      "source": "rss:citizenpath",
+      "source_trust": "analysis",
+      "published_at": "2026-11-03T14:00:00+00:00",
+      "summary": "Embassies ask for court custody papers when a child immigrates",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "Homeland Security Task Force Investigation Yields Federal Charges for 13 Aliens Charged with Fraud Against the United States",
       "url": "https://www.uscis.gov/newsroom/news-releases/homeland-security-task-force-investigation-yields-federal-charges-for-13-aliens-charged-with-fraud",
@@ -472,18 +496,6 @@
       "actionable": true
     },
     {
-      "title": "NewsFlash! DHS Proposes to End Deference to Prior Nonimmigrant Worker Petition Approvals",
-      "url": "https://www.murthy.com/2026/10/13/newsflash-dhs-proposes-to-end-deference-to-prior-nonimmigrant-worker-petition-approvals/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-10-13T22:13:40+00:00",
-      "summary": "The U.S",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
       "title": "Ren\u00e9e Good\u2019s Family Files Lawsuits Challenging Federal Immunity as ICE Shootings Continue",
       "url": "https://www.americanimmigrationcouncil.org/enforcement/interior-enforcement/renee-good-lawsuit-ice-shooting-immunity/",
       "source": "rss:american_immigration_council",
@@ -733,18 +745,6 @@
       "summary": "U.S",
       "categories": [
         "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "How Divorce Affects Immigration Status and Your Green Card",
-      "url": "https://citizenpath.com/how-divorce-affects-immigration-status/",
-      "source": "rss:citizenpath",
-      "source_trust": "analysis",
-      "published_at": "2026-09-29T13:00:00+00:00",
-      "summary": "Divorce affects your immigration status differently depending on whether your case is pending, conditional, or approved.\u2026 Continue Reading \u2192 The post How Divorce Affects Immigration Status and Your Green Card appeared first on CitizenPath .",
-      "categories": [
-        "green_card"
       ],
       "actionable": false
     },
