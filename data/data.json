@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-05T12:17:03.753857+00:00",
+  "generated_at": "2026-11-05T20:00:08.105882+00:00",
   "count": 129,
   "source_count": 8,
   "items": [
+    {
+      "title": "Chatting with Charlie Webinar Series",
+      "url": "https://wolfsdorf.com/chattingwithcharlie/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-11-05T18:45:22+00:00",
+      "summary": "Former U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Rapid-Fire Wednesdays Podcast | L-1 Fees, PERM Overhaul & E-Verify Deadline",
+      "url": "https://wolfsdorf.com/rapid-fire-wednesdays-podcast-l-1-fees-perm-overhaul-e-verify-deadline/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-11-05T18:02:35+00:00",
+      "summary": "The transcript version of our weekly Q&A for corporate immigration professionals",
+      "categories": [
+        "general"
+      ],
+      "actionable": true
+    },
     {
       "title": "Vietnam \u2013 Decree 393 Introduces New Pathways and Requirements for Foreign Talent and Employers",
       "url": "https://wolfsdorf.com/vietnam-decree-393-introduces-new-pathways-and-requirements-for-foreign-talent-and-employers/",
@@ -250,18 +274,6 @@
       "source_trust": "analysis",
       "published_at": "2026-10-28T20:54:37+00:00",
       "summary": "WASHINGTON, D.C., October 28, 2026 \u2014 The American Immigration Council, the Tennessee Immigrant and Refugee Rights Coalition (TIRRC), and researcher Meghan Conley filed a lawsuit today seeking information about what ICE is telling local police and sheriffs about sharing immigration enforcement record",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Chatting with Charlie Webinar Series",
-      "url": "https://wolfsdorf.com/chattingwithcharlie/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-10-28T18:45:22+00:00",
-      "summary": "Former U.S",
       "categories": [
         "general"
       ],
@@ -553,18 +565,6 @@
       "summary": "Didn't register for Selective Service? Your age when filing N-400 decides how much it affects your citizenship application",
       "categories": [
         "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Ten Things Every EB-5 Applicant Should Know About Adjustment of Status",
-      "url": "https://wolfsdorf.com/ten-things-every-eb-5-applicant-should-know-about-adjustment-of-status/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-10-05T22:40:25+00:00",
-      "summary": "October 2026 brings a major opportunity for Chinese investors\u2014and important considerations for Indian applicants",
-      "categories": [
-        "green_card"
       ],
       "actionable": false
     },
