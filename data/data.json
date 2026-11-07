@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-06T19:21:37.861299+00:00",
+  "generated_at": "2026-11-07T00:06:06.987350+00:00",
   "count": 427,
   "source_count": 10,
   "items": [
+    {
+      "title": "Chatting with Charlie: EB-5 Investor Outlook | November 2026 Visa Bulletin",
+      "url": "https://wolfsdorf.com/eb-5-investor-outlook-november-2026-visa-bulletin/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-11-06T21:41:17+00:00",
+      "summary": "The transcript version of our monthly EB-5 webinar",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Weekly Immigration News: New USCIS Memo Ties Citizenship to Family Support and Public Benefits",
+      "url": "https://citizenpath.com/immigration-news/",
+      "source": "rss:citizenpath",
+      "source_trust": "analysis",
+      "published_at": "2026-11-06T18:14:00+00:00",
+      "summary": "Stay informed with our weekly immigration news roundup covering USCIS policy changes, court rulings, and other stories affecting immigrants.\u2026 Continue Reading \u2192 The post Weekly Immigration News: New USCIS Memo Ties Citizenship to Family Support and Public Benefits appeared first on CitizenPath .",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "MurthyAudio: Tips for Proactive I-485 Filings",
       "url": "https://www.murthy.com/2026/11/06/murthyaudio-tips-for-proactive-i-485-filings/",
@@ -250,18 +274,6 @@
       "source_trust": "analysis",
       "published_at": "2026-10-30T18:08:14+00:00",
       "summary": "The transcript version of our monthly Visa Bulletin reaction for corporate immigration professionals",
-      "categories": [
-        "green_card"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Weekly Immigration News: Appeals Court Freezes the 2027 Green Card Lottery Days Before It Was Set to Open",
-      "url": "https://citizenpath.com/immigration-news/",
-      "source": "rss:citizenpath",
-      "source_trust": "analysis",
-      "published_at": "2026-10-30T16:27:00+00:00",
-      "summary": "Stay informed with our weekly immigration news roundup covering USCIS policy changes, court rulings, and other stories affecting immigrants.\u2026 Continue Reading \u2192 The post Weekly Immigration News: Appeals Court Freezes the 2027 Green Card Lottery Days Before It Was Set to Open appeared first on Citize",
       "categories": [
         "green_card"
       ],
@@ -699,18 +711,6 @@
         "general"
       ],
       "actionable": false
-    },
-    {
-      "title": "DOL Announces PERM Suspensions for Microsoft, Adobe, and Major IT Firms",
-      "url": "https://wolfsdorf.com/dol-announces-perm-suspensions-for-microsoft-adobe-and-major-it-firms/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-10-08T20:53:45+00:00",
-      "summary": "The Department of Labor (DOL) has announced that it will stop accepting new PERM applications and suspend processing of pending\u00a0PERM\u00a0applications involving Microsoft, Adobe, Cognizant, Infosys, Tata, Wipro, HCL, and Capgemini.\u00a0 What the suspension covers PERM is the labor certification process requi",
-      "categories": [
-        "general"
-      ],
-      "actionable": true
     },
     {
       "title": "How to Get Married Online and Qualify for a Green Card",
