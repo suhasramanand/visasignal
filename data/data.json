@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-11-11T22:40:39.747706+00:00",
+  "generated_at": "2026-11-12T07:05:55.636430+00:00",
   "count": 425,
   "source_count": 10,
   "items": [
+    {
+      "title": "Rapid-Fire Wednesdays Podcast | 2026 Midterm Elections: Immigration Policy Impact",
+      "url": "https://wolfsdorf.com/rapid-fire-wednesdays-podcast-2026-midterm-elections-immigration-policy/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-11-12T01:47:47+00:00",
+      "summary": "The transcript version of our weekly Q&A for corporate immigration professionals",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "Can an Approved I-140 Still Help After the Employer Withdraws It?",
       "url": "https://www.murthy.com/2026/11/11/can-an-approved-i-140-still-help-after-the-employer-withdraws-it/",
@@ -624,18 +636,6 @@
       "summary": "U.S",
       "categories": [
         "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "EB-5 source of funds update: What are the courts saying?",
-      "url": "https://wolfsdorf.com/eb-5-source-of-funds-update-what-are-the-courts-saying/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-10-19T15:20:34+00:00",
-      "summary": "By Bernard Wolfsdorf Recent EB-5 decisions offer investors meaningful grounds to challenge excessive source-of-funds demands",
-      "categories": [
-        "green_card"
       ],
       "actionable": false
     },
