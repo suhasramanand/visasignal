@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-12T16:47:02.298316+00:00",
-  "count": 425,
+  "generated_at": "2026-11-13T01:03:11.854213+00:00",
+  "count": 424,
   "source_count": 10,
   "items": [
+    {
+      "title": "WR Immigration News Digest",
+      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261112/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-11-12T19:20:18+00:00",
+      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Tax Resident Status in the U.S.: What Newcomers Need to Know",
+      "url": "https://citizenpath.com/tax-resident-status/",
+      "source": "rss:citizenpath",
+      "source_trust": "analysis",
+      "published_at": "2026-11-12T14:00:00+00:00",
+      "summary": "Tax resident status is not your immigration status",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "Rapid-Fire Wednesdays Podcast | 2026 Midterm Elections: Immigration Policy Impact",
       "url": "https://wolfsdorf.com/rapid-fire-wednesdays-podcast-2026-midterm-elections-immigration-policy/",
@@ -154,18 +178,6 @@
       "source_trust": "analysis",
       "published_at": "2026-11-05T21:56:43+00:00",
       "summary": "In Canada, recent changes to the Express Entry Comprehensive Ranking System (CRS) may expand permanent residence opportunities for eligible foreign nationals",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "WR Immigration News Digest",
-      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261105/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-11-05T20:54:30+00:00",
-      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
       "categories": [
         "general"
       ],
@@ -592,18 +604,6 @@
       "actionable": false
     },
     {
-      "title": "Sudan and Ukraine\u00a0TPS Remain in Effect While Employers Await Formal DHS Guidance",
-      "url": "https://wolfsdorf.com/sudan-and-ukraine-tps-remain-in-effect-while-employers-await-formal-dhs-guidance/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-10-20T20:57:08+00:00",
-      "summary": "Employers with employees working pursuant to Temporary Protected Status (TPS)\u00a0from Sudan and Ukraine\u00a0are facing an unusual compliance situation as DHS has not yet issued a formal decision regarding the future of\u00a0Sudan\u2019s and Ukraine\u2019s\u00a0TPS designation, similar to the situation with El Salvador TPS",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
       "title": "Canadian Alien Charged with Illegal Voting",
       "url": "https://www.uscis.gov/newsroom/news-releases/canadian-alien-charged-with-illegal-voting",
       "source": "rss:uscis_news",
@@ -767,18 +767,6 @@
       "source_trust": "official",
       "published_at": "2026-10-07T19:39:26+00:00",
       "summary": "U.S",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Selective Service for Citizenship: What If You Didn\u2019t Register?",
-      "url": "https://citizenpath.com/failing-register-selective-service/",
-      "source": "rss:citizenpath",
-      "source_trust": "analysis",
-      "published_at": "2026-10-06T13:00:00+00:00",
-      "summary": "Didn't register for Selective Service? Your age when filing N-400 decides how much it affects your citizenship application",
       "categories": [
         "general"
       ],
