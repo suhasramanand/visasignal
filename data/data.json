@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-11-13T12:09:51.856981+00:00",
+  "generated_at": "2026-11-13T19:38:42.928426+00:00",
   "count": 424,
   "source_count": 10,
   "items": [
+    {
+      "title": "Weekly Immigration News: Mixed-Status Families Could Lose Housing Aid Under New HUD Rule",
+      "url": "https://citizenpath.com/immigration-news/",
+      "source": "rss:citizenpath",
+      "source_trust": "analysis",
+      "published_at": "2026-11-13T16:30:18+00:00",
+      "summary": "Stay informed with our weekly immigration news roundup covering USCIS policy changes, court rulings, and other stories affecting immigrants.\u2026 Continue Reading \u2192 The post Weekly Immigration News: Mixed-Status Families Could Lose Housing Aid Under New HUD Rule appeared first on CitizenPath .",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "WR Immigration News Digest",
       "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261112/",
@@ -132,18 +144,6 @@
       "summary": "The transcript version of our monthly EB-5 webinar",
       "categories": [
         "green_card"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Weekly Immigration News: New USCIS Memo Ties Citizenship to Family Support and Public Benefits",
-      "url": "https://citizenpath.com/immigration-news/",
-      "source": "rss:citizenpath",
-      "source_trust": "analysis",
-      "published_at": "2026-11-06T18:14:00+00:00",
-      "summary": "Stay informed with our weekly immigration news roundup covering USCIS policy changes, court rulings, and other stories affecting immigrants.\u2026 Continue Reading \u2192 The post Weekly Immigration News: New USCIS Memo Ties Citizenship to Family Support and Public Benefits appeared first on CitizenPath .",
-      "categories": [
-        "general"
       ],
       "actionable": false
     },
