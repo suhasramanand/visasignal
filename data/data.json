@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-11-16T06:22:05.102528+00:00",
+  "generated_at": "2026-11-16T18:29:17.356109+00:00",
   "count": 424,
   "source_count": 10,
   "items": [
+    {
+      "title": "NewsFlash! DOL Proposes Major Changes to PERM Labor Certification",
+      "url": "https://www.murthy.com/2026/11/16/newsflash-dol-proposes-major-changes-to-perm-labor-certification/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-11-16T18:21:56+00:00",
+      "summary": "The U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "Weekly Immigration News: Mixed-Status Families Could Lose Housing Aid Under New HUD Rule",
       "url": "https://citizenpath.com/immigration-news/",
@@ -480,18 +492,6 @@
       "summary": "The transcript version of The Business Immigration Benchmark podcast for HR and Global Mobility professionals",
       "categories": [
         "h1b"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Supreme Court Leaves Restrictions on Administrative Closure in Place",
-      "url": "https://www.murthy.com/2026/10/27/supreme-court-leaves-restrictions-on-administrative-closure-in-place/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-10-27T18:27:12+00:00",
-      "summary": "The Supreme Court declined to pause a lower-court judgment blocking the 2024 administrative-closure rule",
-      "categories": [
-        "general"
       ],
       "actionable": false
     },
