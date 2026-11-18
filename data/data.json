@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-11-18T07:22:17.985194+00:00",
+  "generated_at": "2026-11-18T17:13:46.930676+00:00",
   "count": 424,
   "source_count": 10,
   "items": [
+    {
+      "title": "Changing Nonimmigrant Status: Timing and Employment Authorization",
+      "url": "https://www.murthy.com/2026/11/18/changing-nonimmigrant-status-timing-and-employment-authorization/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-11-18T15:16:11+00:00",
+      "summary": "A person planning to change from one nonimmigrant status to another may need to coordinate the end of their current status, the start of the new status, and any permission to work",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "Federal Court Stays CPT Restrictions: What Employers Should Know",
       "url": "https://wolfsdorf.com/federal-court-stays-cpt-restrictions-what-employers-should-know/",
@@ -420,18 +432,6 @@
       "summary": "A pending U-visa petition does not protect a person from removal while the petition or a visa number is pending",
       "categories": [
         "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "F-1 & Beyond: Live Online Webinar",
-      "url": "https://www.murthy.com/f-1-beyond-live-online-webinar",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-11-04T18:33:40+00:00",
-      "summary": "Copyright \u00a9 2026, MURTHY LAW FIRM",
-      "categories": [
-        "f1"
       ],
       "actionable": false
     },
