@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-19T12:59:10.971092+00:00",
+  "generated_at": "2026-11-19T23:01:57.011282+00:00",
   "count": 424,
   "source_count": 10,
   "items": [
+    {
+      "title": "WR Immigration News Digest",
+      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261119/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-11-19T17:33:34+00:00",
+      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Report: How Trump is Making Millions of Previously Protected Immigrants Vulnerable to Deportation",
+      "url": "https://www.americanimmigrationcouncil.org/press-release/report-trump-delegalization-campaign-put-millions-immigrants-at-risk-deportation/",
+      "source": "rss:american_immigration_council",
+      "source_trust": "analysis",
+      "published_at": "2026-11-19T15:45:24+00:00",
+      "summary": "Congress Must Provide Lasting Solutions to Mitigate Ongoing \u2018Delegalization\u2019 Campaign\u00a0 Washington DC, Nov",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "Rapid-Fire Wednesdays Podcast | Holiday Travel Advice & PERM Rule Changes",
       "url": "https://wolfsdorf.com/us-immigration-updates-holiday-travel-perm-ds-rule/",
@@ -130,18 +154,6 @@
       "source_trust": "analysis",
       "published_at": "2026-11-13T16:30:18+00:00",
       "summary": "Stay informed with our weekly immigration news roundup covering USCIS policy changes, court rulings, and other stories affecting immigrants.\u2026 Continue Reading \u2192 The post Weekly Immigration News: Mixed-Status Families Could Lose Housing Aid Under New HUD Rule appeared first on CitizenPath .",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "WR Immigration News Digest",
-      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261112/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-11-12T19:20:18+00:00",
-      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
       "categories": [
         "general"
       ],
@@ -971,18 +983,6 @@
       "source_trust": "official",
       "published_at": "2026-09-18T19:54:56+00:00",
       "summary": "U.S",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "New Report Shows Immigrants in Mecklenburg County Paid $2.6 Billion in Taxes and Held $7 Billion in Spending Power in 2024",
-      "url": "https://www.americanimmigrationcouncil.org/press-release/immigrants-in-mecklenburg-county/",
-      "source": "rss:american_immigration_council",
-      "source_trust": "analysis",
-      "published_at": "2026-09-18T10:00:00+00:00",
-      "summary": "Mecklenburg County,\u00a0NC, September 18, 2026\u00a0\u2013\u00a0A new report, Immigrants in Mecklenburg County released today by the American Immigration Council\u2014in partnership with the City of Charlotte, the Charlotte International Cabinet, and International House\u2014underscores the crucial role immigrants play in the r",
       "categories": [
         "general"
       ],
