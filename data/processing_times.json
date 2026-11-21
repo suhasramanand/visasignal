@@ -1,9 +1,9 @@
 {
   "release_tag": "2026-11-20",
   "release_published_at": "2026-11-20T21:41:23Z",
-  "release_age_hours": 3.8,
+  "release_age_hours": 14.9,
   "stale": false,
-  "fetched_at": "2026-11-21T01:29:07.852404+00:00",
+  "fetched_at": "2026-11-21T12:35:57.230922+00:00",
   "data_source": "github.com/jzebedee/uscis (daily scrape, not official USCIS API)",
   "highlights": [
     {
@@ -63,28 +63,28 @@
   ],
   "movement": {
     "I-765_147-C3": {
-      "delta_lower_months": 1.0,
-      "delta_upper_months": 0.5
+      "delta_lower_months": 0.0,
+      "delta_upper_months": 0.0
     },
     "I-129_137-H1B2": {
-      "delta_lower_months": -5.0,
-      "delta_upper_months": -0.5
+      "delta_lower_months": 0.0,
+      "delta_upper_months": 0.0
     },
     "I-129_137-H1B3": {
       "delta_lower_months": 0.0,
-      "delta_upper_months": 1.0
+      "delta_upper_months": 0.0
     },
     "I-140_136A-E21": {
-      "delta_lower_months": 0.5,
-      "delta_upper_months": 0.5
+      "delta_lower_months": 0.0,
+      "delta_upper_months": 0.0
     },
     "I-140_136A-E31": {
-      "delta_lower_months": 0.5,
-      "delta_upper_months": 0.5
+      "delta_lower_months": 0.0,
+      "delta_upper_months": 0.0
     },
     "I-485_median": {
-      "delta_lower_months": -0.5,
-      "delta_upper_months": -2.0
+      "delta_lower_months": 0.0,
+      "delta_upper_months": 0.0
     }
   }
 }
