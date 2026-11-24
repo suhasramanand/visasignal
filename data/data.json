@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-24T04:45:39.097107+00:00",
+  "generated_at": "2026-11-24T19:29:13.342557+00:00",
   "count": 424,
   "source_count": 10,
   "items": [
+    {
+      "title": "My spouse is changing their employer who is going to file a new change-of-employer H1B petition. Do I also need to file a new H-4 application for myself?",
+      "url": "https://www.murthy.com/2026/11/24/my-spouse-is-changing-their-employer-who-is-going-to-file-a-new-change-of-employer-h1b-petition-do-i-also-need-to-file-a-new-h-4-application-for-myself/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-11-24T16:06:39+00:00",
+      "summary": "Answer Not necessarily",
+      "categories": [
+        "h1b"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "I-485 Denied? Why It Happens and How to Avoid a Green Card Denial",
+      "url": "https://citizenpath.com/i-485-denied/",
+      "source": "rss:citizenpath",
+      "source_trust": "analysis",
+      "published_at": "2026-11-24T14:00:00+00:00",
+      "summary": "Most I-485 denials trace to eligibility gaps, weak sponsor paperwork or missing evidence",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
     {
       "title": "DOL Proposes Major Changes to the PERM Process",
       "url": "https://www.murthy.com/2026/11/23/dol-proposes-major-changes-to-the-perm-process/",
@@ -310,18 +334,6 @@
       "source_trust": "analysis",
       "published_at": "2026-11-06T21:41:17+00:00",
       "summary": "The transcript version of our monthly EB-5 webinar",
-      "categories": [
-        "green_card"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "MurthyAudio: Tips for Proactive I-485 Filings",
-      "url": "https://www.murthy.com/2026/11/06/murthyaudio-tips-for-proactive-i-485-filings/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-11-06T16:09:11+00:00",
-      "summary": "Proactive tips to prepare for filing your I-485 application are discussed by Murthy Law Firm attorneys in this podcast for employers",
       "categories": [
         "green_card"
       ],
@@ -744,19 +756,6 @@
       "summary": "U.S",
       "categories": [
         "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Travel Outside the U.S. as a Noncitizen: Documents You Need",
-      "url": "https://citizenpath.com/noncitizen-travel-documents/",
-      "source": "rss:citizenpath",
-      "source_trust": "analysis",
-      "published_at": "2026-10-13T13:00:00+00:00",
-      "summary": "Before you travel outside the U.S., know which document gets you back in: green card, reentry permit, or advance parole.\u2026 Continue Reading \u2192 The post Travel Outside the U.S",
-      "categories": [
-        "green_card",
-        "travel_entry"
       ],
       "actionable": false
     },
