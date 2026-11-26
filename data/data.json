@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-11-25T14:16:50.309816+00:00",
-  "count": 424,
+  "generated_at": "2026-11-26T00:18:24.646933+00:00",
+  "count": 423,
   "source_count": 10,
   "items": [
+    {
+      "title": "WR Immigration News Digest",
+      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261125/",
+      "source": "rss:wr_immigration",
+      "source_trust": "analysis",
+      "published_at": "2026-11-25T22:03:34+00:00",
+      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Congressional Inquiries After the Midterm Elections",
+      "url": "https://www.murthy.com/2026/11/25/congressional-inquiries-after-the-midterm-elections/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-11-25T18:57:24+00:00",
+      "summary": "Congressional office transitions after the midterm elections may affect immigration casework",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "How Employers Can Prepare for Proposed PERM Changes",
+      "url": "https://www.murthy.com/2026/11/25/how-employers-can-prepare-for-proposed-perm-changes/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-11-25T17:01:46+00:00",
+      "summary": "The U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
     {
       "title": "My spouse is changing their employer who is going to file a new change-of-employer H1B petition. Do I also need to file a new H-4 application for myself?",
       "url": "https://www.murthy.com/2026/11/24/my-spouse-is-changing-their-employer-who-is-going-to-file-a-new-change-of-employer-h1b-petition-do-i-also-need-to-file-a-new-h-4-application-for-myself/",
@@ -58,18 +94,6 @@
       "source_trust": "analysis",
       "published_at": "2026-11-20T17:13:00+00:00",
       "summary": "Stay informed with our weekly immigration news roundup covering USCIS policy changes, court rulings, and other stories affecting immigrants.\u2026 Continue Reading \u2192 The post Weekly Immigration News: Judge Strikes Down Four-Year Limit, International Students Keep \u201cDuration of Status\u201d appeared first on Ci",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "WR Immigration News Digest",
-      "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261119/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-11-19T17:33:34+00:00",
-      "summary": "For audio listeners, you can listen to our audio version of the News Digest here",
       "categories": [
         "general"
       ],
@@ -292,30 +316,6 @@
       "actionable": false
     },
     {
-      "title": "NewsFlash! USCIS Issues Guidance on Public Benefits and Good Moral Character for Naturalization",
-      "url": "https://www.murthy.com/2026/11/10/newsflash-uscis-issues-guidance-on-public-benefits-and-good-moral-character-for-naturalization/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-11-10T13:50:16+00:00",
-      "summary": "On November 4, 2026, U.S",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Murthy Immigration Services is Now in Mumbai!",
-      "url": "https://www.murthy.com/2026/11/09/murthy-immigration-services-is-now-in-mumbai/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-11-09T18:47:48+00:00",
-      "summary": "We are pleased to announce the opening of our India affiliate, Murthy Immigration Services\u2019 new Mumbai office, expanding their presence in India and making U.S",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
       "title": "Post-Midterms, New Analysis Examines How States Address Immigrant Well-Being and Economic Potential",
       "url": "https://www.americanimmigrationcouncil.org/press-release/states-index-analysis-midterms/",
       "source": "rss:american_immigration_council",
@@ -516,18 +516,6 @@
       "summary": "Immigrants in Northeast Indiana contributed $3.7 million to the region\u2019s GDP",
       "categories": [
         "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Chatting with Charlie | November 2026 Visa Bulletin Reaction",
-      "url": "https://wolfsdorf.com/chatting-with-charlie-november-2026-visa-bulletin/",
-      "source": "rss:wr_immigration",
-      "source_trust": "analysis",
-      "published_at": "2026-10-30T18:08:14+00:00",
-      "summary": "The transcript version of our monthly Visa Bulletin reaction for corporate immigration professionals",
-      "categories": [
-        "green_card"
       ],
       "actionable": false
     },
