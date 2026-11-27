@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-11-26T13:51:38.282758+00:00",
+  "generated_at": "2026-11-27T00:33:29.848114+00:00",
   "count": 423,
   "source_count": 10,
   "items": [
+    {
+      "title": "Employment-Based Green Card: Who Qualifies and How to Apply",
+      "url": "https://citizenpath.com/employment-based-green-card-process/",
+      "source": "rss:citizenpath",
+      "source_trust": "analysis",
+      "published_at": "2026-11-26T14:00:00+00:00",
+      "summary": "An employment-based green card starts with the right EB category",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
     {
       "title": "WR Immigration News Digest",
       "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261125/",
@@ -694,18 +706,6 @@
       "source_trust": "official",
       "published_at": "2026-10-15T13:51:51+00:00",
       "summary": "U.S",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
-      "title": "Is a Foreign Marriage Valid in the U.S.? What Immigration Requires",
-      "url": "https://citizenpath.com/valid-marriage-for-immigration-purposes/",
-      "source": "rss:citizenpath",
-      "source_trust": "analysis",
-      "published_at": "2026-10-15T13:00:00+00:00",
-      "summary": "A foreign marriage is valid in the U.S",
       "categories": [
         "general"
       ],
