@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-27T13:49:17.757403+00:00",
-  "count": 413,
-  "source_count": 9,
+  "generated_at": "2026-11-28T00:01:39.683949+00:00",
+  "count": 423,
+  "source_count": 10,
   "items": [
+    {
+      "title": "December 2026 Visa Bulletin",
+      "url": "https://www.murthy.com/2026/11/27/december-2026-visa-bulletin/",
+      "source": "rss:murthy_law",
+      "source_trust": "analysis",
+      "published_at": "2026-11-27T19:17:29+00:00",
+      "summary": "The U.S",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Weekly Immigration News: December Visa Bulletin \u2014  A Rare Step Forward for Siblings From India and the Philippines",
+      "url": "https://citizenpath.com/immigration-news/",
+      "source": "rss:citizenpath",
+      "source_trust": "analysis",
+      "published_at": "2026-11-27T17:30:17+00:00",
+      "summary": "Stay informed with our weekly immigration news roundup covering USCIS policy changes, court rulings, and other stories affecting immigrants.\u2026 Continue Reading \u2192 The post Weekly Immigration News: December Visa Bulletin \u2014  A Rare Step Forward for Siblings From India and the Philippines appeared first ",
+      "categories": [
+        "green_card"
+      ],
+      "actionable": false
+    },
     {
       "title": "Employment-Based Green Card: Who Qualifies and How to Apply",
       "url": "https://citizenpath.com/employment-based-green-card-process/",
@@ -100,12 +124,12 @@
       "actionable": false
     },
     {
-      "title": "Weekly Immigration News: Judge Strikes Down Four-Year Limit, International Students Keep \u201cDuration of Status\u201d",
-      "url": "https://citizenpath.com/immigration-news/",
-      "source": "rss:citizenpath",
+      "title": "Report: How Trump is Making Millions of Previously Protected Immigrants Vulnerable to Deportation",
+      "url": "https://www.americanimmigrationcouncil.org/press-release/report-trump-delegalization-campaign-put-millions-immigrants-at-risk-deportation/",
+      "source": "rss:american_immigration_council",
       "source_trust": "analysis",
-      "published_at": "2026-11-20T17:13:00+00:00",
-      "summary": "Stay informed with our weekly immigration news roundup covering USCIS policy changes, court rulings, and other stories affecting immigrants.\u2026 Continue Reading \u2192 The post Weekly Immigration News: Judge Strikes Down Four-Year Limit, International Students Keep \u201cDuration of Status\u201d appeared first on Ci",
+      "published_at": "2026-11-19T15:45:24+00:00",
+      "summary": "Congress Must Provide Lasting Solutions to Mitigate Ongoing \u2018Delegalization\u2019 Campaign\u00a0 Washington DC, Nov",
       "categories": [
         "general"
       ],
@@ -292,18 +316,6 @@
       "actionable": false
     },
     {
-      "title": "I am in TD status and want to work remotely for a company located outside the United States. Is this allowed because the employer and salary are foreign?",
-      "url": "https://www.murthy.com/2026/11/10/i-am-in-td-status-and-want-to-work-remotely-for-a-company-located-outside-the-united-states-is-this-allowed-because-the-employer-and-salary-are-foreign/",
-      "source": "rss:murthy_law",
-      "source_trust": "analysis",
-      "published_at": "2026-11-10T16:02:10+00:00",
-      "summary": "Answer The issue is not well settled",
-      "categories": [
-        "general"
-      ],
-      "actionable": false
-    },
-    {
       "title": "K-1 Visa to Green Card: How Adjustment of Status Through a K-1 Works",
       "url": "https://citizenpath.com/adjustment-of-status-k-1-visa-entry/",
       "source": "rss:citizenpath",
@@ -312,6 +324,18 @@
       "summary": "Adjustment of status through a K-1 visa starts with Form I-485 after your wedding",
       "categories": [
         "green_card"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "Post-Midterms, New Analysis Examines How States Address Immigrant Well-Being and Economic Potential",
+      "url": "https://www.americanimmigrationcouncil.org/press-release/states-index-analysis-midterms/",
+      "source": "rss:american_immigration_council",
+      "source_trust": "analysis",
+      "published_at": "2026-11-09T18:20:47+00:00",
+      "summary": "The States Index is a new interactive tool that examines the role of states in shaping immigration policy",
+      "categories": [
+        "general"
       ],
       "actionable": false
     },
@@ -496,6 +520,30 @@
       "actionable": false
     },
     {
+      "title": "New Report Shows Immigrants in Northeast Indiana Paid $453.1 Million in Taxes and Held $1.3 Billion in Spending Power in 2024",
+      "url": "https://www.americanimmigrationcouncil.org/press-release/report-northeast-indiana-immigrants-paid-453-million-taxes-2024/",
+      "source": "rss:american_immigration_council",
+      "source_trust": "analysis",
+      "published_at": "2026-11-02T19:37:50+00:00",
+      "summary": "Immigrants in Northeast Indiana contributed $3.7 million to the region\u2019s GDP",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "How Wenatchee Downtown Association Used the Belonging Barometer to Rethink Community",
+      "url": "https://www.americanimmigrationcouncil.org/case-studies/wenatchee-community-belonging/",
+      "source": "rss:american_immigration_council",
+      "source_trust": "analysis",
+      "published_at": "2026-10-29T23:01:11+00:00",
+      "summary": "The Wenatchee Downtown Association used the Belonging Barometer to measure community belonging, improve outreach, increase accessibility, and create a more inclusive downtown experience for residents",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
       "title": "Under President Trump\u2019s Leadership, USCIS Takes Unprecedented 2.2 Million Enforcement Actions Protecting Americans Across the Nation",
       "url": "https://www.uscis.gov/newsroom/news-releases/under-president-trumps-leadership-uscis-takes-unprecedented-22-million-enforcement-actions",
       "source": "rss:uscis_news",
@@ -520,6 +568,18 @@
       "actionable": false
     },
     {
+      "title": "New Lawsuit Seeks Information About ICE\u2019s Efforts to Restrict Public Access to Records",
+      "url": "https://www.americanimmigrationcouncil.org/press-release/new-lawsuit-seeks-information-about-ice-efforts-restrict-public-access-records/",
+      "source": "rss:american_immigration_council",
+      "source_trust": "analysis",
+      "published_at": "2026-10-28T20:54:37+00:00",
+      "summary": "WASHINGTON, D.C., October 28, 2026 \u2014 The American Immigration Council, the Tennessee Immigrant and Refugee Rights Coalition (TIRRC), and researcher Meghan Conley filed a lawsuit today seeking information about what ICE is telling local police and sheriffs about sharing immigration enforcement record",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
       "title": "Character Reference Letter for Naturalization: What USCIS Wants to See",
       "url": "https://citizenpath.com/character-reference-letter-naturalization/",
       "source": "rss:citizenpath",
@@ -538,6 +598,18 @@
       "source_trust": "official",
       "published_at": "2026-10-26T15:44:18+00:00",
       "summary": "On Sept",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "In Major Setback for Due Process, Fifth Circuit Ruling Denies Immigrants the Opportunity to Challenge Their Detention",
+      "url": "https://www.americanimmigrationcouncil.org/press-release/fifth-circuit-immigration-detention-ruling-major-setback-due-process/",
+      "source": "rss:american_immigration_council",
+      "source_trust": "analysis",
+      "published_at": "2026-10-23T18:22:08+00:00",
+      "summary": "Oct 23 Friday, Washington DC \u2014 In response to today\u2019s U.S",
       "categories": [
         "general"
       ],
@@ -652,6 +724,18 @@
       "actionable": true
     },
     {
+      "title": "Ren\u00e9e Good\u2019s Family Files Lawsuits Challenging Federal Immunity as ICE Shootings Continue",
+      "url": "https://www.americanimmigrationcouncil.org/enforcement/interior-enforcement/renee-good-lawsuit-ice-shooting-immunity/",
+      "source": "rss:american_immigration_council",
+      "source_trust": "analysis",
+      "published_at": "2026-10-13T21:18:19+00:00",
+      "summary": "The increasingly violent reality of the Trump administration\u2019s mass deportation agenda came into sharp focus again last week when plainclothes ICE officers opened fire on a car in New York City within seconds of surrounding the vehicle, wounding 28-year-old Oscar Belgal while his terrified 5-year-ol",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
       "title": "Justice Department Moves to Strip Citizenship from 40 Criminals in Largest Single-Period Filing Under the Trump Administration",
       "url": "https://www.uscis.gov/newsroom/news-releases/justice-department-moves-to-strip-citizenship-from-40-criminals-in-largest-single-period-filing",
       "source": "rss:uscis_news",
@@ -708,6 +792,18 @@
       "summary": "U.S",
       "categories": [
         "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "New Lawsuit Challenges Trump-Vance Administration Policies Threatening Green Card Applicants with Family Separation",
+      "url": "https://www.americanimmigrationcouncil.org/press-release/lawsuit-challenges-uscis-green-card-policies-separate-families/",
+      "source": "rss:american_immigration_council",
+      "source_trust": "analysis",
+      "published_at": "2026-10-05T18:59:21+00:00",
+      "summary": "USCIS Policies Upend Decades of Practice, Penalizing Eligible Immigrants for Seeking Permanent Residence from Within the United States Boston \u2014 Immigrant families, workers, educators, unions, and immigrant rights organizations filed a lawsuit today, challenging two Trump-Vance administration policie",
+      "categories": [
+        "green_card"
       ],
       "actionable": false
     },
@@ -820,6 +916,18 @@
       "actionable": false
     },
     {
+      "title": "Fifth Circuit Hears Major Case Over Right to Challenge Immigration Detention",
+      "url": "https://www.americanimmigrationcouncil.org/press-release/fifth-circuit-hears-major-case-over-right-to-challenge-immigration-detention/",
+      "source": "rss:american_immigration_council",
+      "source_trust": "analysis",
+      "published_at": "2026-09-24T17:00:37+00:00",
+      "summary": "Case will determine whether longtime U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
       "title": "Man Charged with Naturalization Fraud; Three Others Face Denaturalization",
       "url": "https://www.uscis.gov/newsroom/news-releases/man-charged-with-naturalization-fraud-three-others-face-denaturalization",
       "source": "rss:uscis_news",
@@ -850,6 +958,18 @@
       "source_trust": "official",
       "published_at": "2026-09-22T15:09:42+00:00",
       "summary": "U.S",
+      "categories": [
+        "general"
+      ],
+      "actionable": false
+    },
+    {
+      "title": "How Maybelle Center Made the Belonging Barometer Part of Everyday Practice",
+      "url": "https://www.americanimmigrationcouncil.org/case-studies/maybelle-center-belonging-barometer/",
+      "source": "rss:american_immigration_council",
+      "source_trust": "analysis",
+      "published_at": "2026-09-21T20:21:33+00:00",
+      "summary": "Maybelle Center integrated the Belonging Barometer into its programs, planning, and evaluation process, using data on belonging to strengthen community connections, guide decision-making, and support residents experiencing social isolation",
       "categories": [
         "general"
       ],
